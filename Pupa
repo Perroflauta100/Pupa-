@@ -1,0 +1,1301 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KABLO.INFO.tr" tvg-name="TR: A SPOR UHD" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/r/qJ/13729/Thumbnail.png" group-title="TR ➾ TURKIYE 4K - RAW",TR: A SPOR UHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/777563
+#EXTINF:-1 tvg-id="HT.Spor.tr" tvg-name="TR: HT SPOR UHD" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/u/S4/98405/Thumbnail.png" group-title="TR ➾ TURKIYE 4K - RAW",TR: HT SPOR UHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/777564
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR UHD" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/l/MK/11888/Thumbnail.png" group-title="TR ➾ TURKIYE 4K - RAW",TR: TRT SPOR UHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/777565
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: SpaceX Sports 1 HEVC" tvg-logo="https://granada.choval.xyz/tr/spor/spacexfeed1.png" group-title="TR ➾ beIN FEED / P+",TR: SpaceX Sports 1 HEVC
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/99944
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: SpaceX Sports 1 FHD" tvg-logo="https://granada.choval.xyz/tr/spor/spacexfeed1.png" group-title="TR ➾ beIN FEED / P+",TR: SpaceX Sports 1 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/83233
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: SpaceX Sports 1 HD" tvg-logo="https://granada.choval.xyz/tr/spor/spacexfeed1.png" group-title="TR ➾ beIN FEED / P+",TR: SpaceX Sports 1 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/99817
+#EXTINF:-1 tvg-id="" tvg-name="TR: SpaceX Sports 1 SD" tvg-logo="https://granada.choval.xyz/tr/spor/spacexfeed1.png" group-title="TR ➾ beIN FEED / P+",TR: SpaceX Sports 1 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/692608
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: SpaceX Sports 2 HEVC" tvg-logo="https://granada.choval.xyz/tr/spor/spacexfeed2.png" group-title="TR ➾ beIN FEED / P+",TR: SpaceX Sports 2 HEVC
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191961
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: SpaceX Sports 2 FHD" tvg-logo="https://granada.choval.xyz/tr/spor/spacexfeed2.png" group-title="TR ➾ beIN FEED / P+",TR: SpaceX Sports 2 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/126959
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: SpaceX Sports 2 HD" tvg-logo="https://granada.choval.xyz/tr/spor/spacexfeed2.png" group-title="TR ➾ beIN FEED / P+",TR: SpaceX Sports 2 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/192050
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: b**N SP*RTS 1 | Premium+++" tvg-logo="https://granada.choval.xyz/tr/spor/beinpremium.png" group-title="TR ➾ beIN FEED / P+",TR: b**N SP*RTS 1 | Premium+++
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1893
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: b**N SP*RTS 2 | Premium+++" tvg-logo="https://granada.choval.xyz/tr/spor/bein2premium.png" group-title="TR ➾ beIN FEED / P+",TR: b**N SP*RTS 2 | Premium+++
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/317878
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N SP*RTS 3 | Premium+++" tvg-logo="https://granada.choval.xyz/tr/spor/bein3premium.png" group-title="TR ➾ beIN FEED / P+",TR: b**N SP*RTS 3 | Premium+++
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/334682
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N SP*RTS 4 | Premium+++" tvg-logo="https://granada.choval.xyz/tr/spor/bein4premium.png" group-title="TR ➾ beIN FEED / P+",TR: b**N SP*RTS 4 | Premium+++
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/334683
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N SP*RTS 5 | Premium+++" tvg-logo="https://granada.choval.xyz/tr/spor/bein5premium.png" group-title="TR ➾ beIN FEED / P+",TR: b**N SP*RTS 5 | Premium+++
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/350151
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N SP*RTS 4K | Premium+++" tvg-logo="https://granada.choval.xyz/tr/spor/beinpremium.png" group-title="TR ➾ beIN FEED / P+",TR: b**N SP*RTS 4K | Premium+++
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/350152
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: b**N SP*RTS 1 | FHD" tvg-logo="https://granada.choval.xyz/tr/spor/bein1fhd.png" group-title="TR ➾ beIN SPORTS",TR: b**N SP*RTS 1 | FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1895
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-Sport Plus 1 SD" tvg-logo="https://granada.choval.xyz/tr/spor/s-sportplus1sd.png" group-title="TR ➾ S SPORT",TR: S-Sport Plus 1 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/785434
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-Sport Plus 1 HD" tvg-logo="https://granada.choval.xyz/tr/spor/s-sportplus1hd.png" group-title="TR ➾ S SPORT",TR: S-Sport Plus 1 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/619936
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-Sport Plus 1 FHD" tvg-logo="https://granada.choval.xyz/tr/spor/s-sportplus1fhd.png" group-title="TR ➾ S SPORT",TR: S-Sport Plus 1 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/124069
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-Sport Plus 2 SD" tvg-logo="https://granada.choval.xyz/tr/spor/s-sportplus2sd.png" group-title="TR ➾ S SPORT",TR: S-Sport Plus 2 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/786317
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-Sport Plus 2 HD" tvg-logo="https://granada.choval.xyz/tr/spor/s-sportplus2hd.png" group-title="TR ➾ S SPORT",TR: S-Sport Plus 2 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/124070
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-Sport Plus 2 FHD" tvg-logo="https://granada.choval.xyz/tr/spor/s-sportplus2fhd.png" group-title="TR ➾ S SPORT",TR: S-Sport Plus 2 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/786318
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-Sport Plus 3 SD" tvg-logo="https://granada.choval.xyz/tr/spor/s-sportplus3sd.png" group-title="TR ➾ S SPORT",TR: S-Sport Plus 3 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/786319
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-Sport Plus 3 (MAC ZAMANI)" tvg-logo="https://granada.choval.xyz/tr/spor/s-sportplus3hd.png" group-title="TR ➾ S SPORT",TR: S-Sport Plus 3 (MAC ZAMANI)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/124071
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-Sport Plus 4 SD" tvg-logo="https://granada.choval.xyz/tr/spor/s-sportplus4sd.png" group-title="TR ➾ S SPORT",TR: S-Sport Plus 4 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/797342
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-Sport Plus 4 (MAC ZAMANI)" tvg-logo="https://granada.choval.xyz/tr/spor/s-sport4hd.png" group-title="TR ➾ S SPORT",TR: S-Sport Plus 4 (MAC ZAMANI)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/124072
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-Sport Plus 5 SD" tvg-logo="https://granada.choval.xyz/tr/spor/s-sportplus5sd.png" group-title="TR ➾ S SPORT",TR: S-Sport Plus 5 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/797343
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-Sport Plus 5 (MAC ZAMANI)" tvg-logo="https://granada.choval.xyz/tr/spor/s-sportplus5hd.png" group-title="TR ➾ S SPORT",TR: S-Sport Plus 5 (MAC ZAMANI)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/124073
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-Sport Plus 6 SD" tvg-logo="https://granada.choval.xyz/tr/spor/s-sportplus6sd.png" group-title="TR ➾ S SPORT",TR: S-Sport Plus 6 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/797344
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-Sport Plus 6 (MAC ZAMANI)" tvg-logo="https://granada.choval.xyz/tr/spor/s-sportplus6hd.png" group-title="TR ➾ S SPORT",TR: S-Sport Plus 6 (MAC ZAMANI)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/124074
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-Sport Plus 7 SD" tvg-logo="https://granada.choval.xyz/tr/spor/s-sportplus7sd.png" group-title="TR ➾ S SPORT",TR: S-Sport Plus 7 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/797345
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-Sport Plus 7 (MAC ZAMANI)" tvg-logo="https://granada.choval.xyz/tr/spor/ssporthevc.png" group-title="TR ➾ S SPORT",TR: S-Sport Plus 7 (MAC ZAMANI)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/665194
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-Sport Plus 8 SD" tvg-logo="https://granada.choval.xyz/tr/spor/s-sportplus8sd.png" group-title="TR ➾ S SPORT",TR: S-Sport Plus 8 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/797346
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-Sport Plus 8 (MAC ZAMANI)" tvg-logo="https://granada.choval.xyz/tr/spor/ssporthevc.png" group-title="TR ➾ S SPORT",TR: S-Sport Plus 8 (MAC ZAMANI)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/665195
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-Sport Plus 9 SD" tvg-logo="https://granada.choval.xyz/tr/spor/s-sportplus9sd.png" group-title="TR ➾ S SPORT",TR: S-Sport Plus 9 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/797347
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-Sport Plus 9 (MAC ZAMANI)" tvg-logo="https://granada.choval.xyz/tr/spor/ssporthevc.png" group-title="TR ➾ S SPORT",TR: S-Sport Plus 9 (MAC ZAMANI)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/665196
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-Sport Plus 10 SD" tvg-logo="https://granada.choval.xyz/tr/spor/s-sportplus10sd.png" group-title="TR ➾ S SPORT",TR: S-Sport Plus 10 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/797348
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-Sport Plus 10 (MAC ZAMANI)" tvg-logo="https://granada.choval.xyz/tr/spor/ssporthevc.png" group-title="TR ➾ S SPORT",TR: S-Sport Plus 10 (MAC ZAMANI)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/665197
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: b**N SP*RTS 1 | HD" tvg-logo="https://granada.choval.xyz/tr/spor/bein1hd.png" group-title="TR ➾ beIN SPORTS",TR: b**N SP*RTS 1 | HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1896
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: b**N SP*RTS 1 | SD" tvg-logo="https://granada.choval.xyz/tr/spor/bein1sd.png" group-title="TR ➾ beIN SPORTS",TR: b**N SP*RTS 1 | SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1897
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: b**N SP*RTS 1 | Mobile" tvg-logo="https://granada.choval.xyz/tr/spor/bein1mobile.png" group-title="TR ➾ beIN SPORTS",TR: b**N SP*RTS 1 | Mobile
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/29348
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: b**N SP*RTS 1 | ttNet" tvg-logo="https://granada.choval.xyz/tr/spor/bein1ttnet.png" group-title="TR ➾ beIN SPORTS",TR: b**N SP*RTS 1 | ttNet
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/8539
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: b**N SP*RTS 1 | 30 FPS" tvg-logo="https://granada.choval.xyz/tr/spor/bein130fps.png" group-title="TR ➾ beIN SPORTS",TR: b**N SP*RTS 1 | 30 FPS
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/46068
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: b**N SP*RTS 1 | 50 FPS" tvg-logo="https://granada.choval.xyz/tr/spor/bein150fps.png" group-title="TR ➾ beIN SPORTS",TR: b**N SP*RTS 1 | 50 FPS
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/45911
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: b**N SP*RTS 1 | 60 FPS | HEVC" tvg-logo="https://granada.choval.xyz/tr/spor/bein150fps.png" group-title="TR ➾ beIN SPORTS",TR: b**N SP*RTS 1 | 60 FPS | HEVC
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/46067
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: b**N SP*RTS 2 | HD" tvg-logo="https://granada.choval.xyz/tr/spor/bein2hd.png" group-title="TR ➾ beIN SPORTS",TR: b**N SP*RTS 2 | HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1898
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: b**N SP*RTS 2 | FHD" tvg-logo="https://granada.choval.xyz/tr/spor/bein2fhd.png" group-title="TR ➾ beIN SPORTS",TR: b**N SP*RTS 2 | FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1899
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: b**N SP*RTS 2 | ttNet" tvg-logo="https://granada.choval.xyz/tr/spor/bein2ttnet.png" group-title="TR ➾ beIN SPORTS",TR: b**N SP*RTS 2 | ttNet
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/12694
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: b**N SP*RTS 3 | HD" tvg-logo="https://granada.choval.xyz/tr/spor/bein3hd.png" group-title="TR ➾ beIN SPORTS",TR: b**N SP*RTS 3 | HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1900
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: b**N SP*RTS 3 | FHD" tvg-logo="https://granada.choval.xyz/tr/spor/bein3fhd.png" group-title="TR ➾ beIN SPORTS",TR: b**N SP*RTS 3 | FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1901
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: b**N SP*RTS 3 | ttNet" tvg-logo="https://granada.choval.xyz/tr/spor/bein3ttnet.png" group-title="TR ➾ beIN SPORTS",TR: b**N SP*RTS 3 | ttNet
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/12693
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: b**N SP*RTS 4 | HD" tvg-logo="https://granada.choval.xyz/tr/spor/bein4hd.png" group-title="TR ➾ beIN SPORTS",TR: b**N SP*RTS 4 | HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1902
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: b**N SP*RTS 4 | FHD" tvg-logo="https://granada.choval.xyz/tr/spor/bein4fhd.png" group-title="TR ➾ beIN SPORTS",TR: b**N SP*RTS 4 | FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1903
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: b**N SP*RTS 4 | ttNet" tvg-logo="https://granada.choval.xyz/tr/spor/bein4ttnet.png" group-title="TR ➾ beIN SPORTS",TR: b**N SP*RTS 4 | ttNet
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/12695
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N SP*RTS 5 | HD" tvg-logo="https://granada.choval.xyz/tr/spor/bein5hd.png" group-title="TR ➾ beIN SPORTS",TR: b**N SP*RTS 5 | HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/343030
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N SP*RTS 5 | FHD" tvg-logo="https://granada.choval.xyz/tr/spor/bein5fhd.png" group-title="TR ➾ beIN SPORTS",TR: b**N SP*RTS 5 | FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/343029
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR: b**N SP*RTS MAX 1 HD" tvg-logo="https://granada.choval.xyz/tr/spor/beinmax1hd.png" group-title="TR ➾ beIN SPORTS",TR: b**N SP*RTS MAX 1 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1904
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: b**N SP*RTS MAX 1 FHD" tvg-logo="https://granada.choval.xyz/tr/spor/beinmax1fhd.png" group-title="TR ➾ beIN SPORTS",TR: b**N SP*RTS MAX 1 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1905
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: b**N SP*RTS MAX 2 HD" tvg-logo="https://granada.choval.xyz/tr/spor/beinmax2hd.png" group-title="TR ➾ beIN SPORTS",TR: b**N SP*RTS MAX 2 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1906
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: b**N SP*RTS MAX 2 FHD" tvg-logo="https://granada.choval.xyz/tr/spor/beinmax2fhd.png" group-title="TR ➾ beIN SPORTS",TR: b**N SP*RTS MAX 2 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1907
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: b**N SP*RTS HABER FHD" tvg-logo="https://granada.choval.xyz/tr/spor/beinhaberfhd.png" group-title="TR ➾ beIN SPORTS",TR: b**N SP*RTS HABER FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1892
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: b**N SP*RTS HABER | ttNet" tvg-logo="https://granada.choval.xyz/tr/spor/beinhaberttnet.png" group-title="TR ➾ beIN SPORTS",TR: b**N SP*RTS HABER | ttNet
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/18276
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S-SPORT 1 Premium+" tvg-logo="https://granada.choval.xyz/tr/spor/ssportpremium1.png" group-title="TR ➾ S SPORT",TR: S-SPORT 1 Premium+
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/64287
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S-SPORT 1 HEVC" tvg-logo="https://granada.choval.xyz/tr/spor/ssporthevc.png" group-title="TR ➾ S SPORT",TR: S-SPORT 1 HEVC
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/81527
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S-SPORT 1 HD" tvg-logo="https://granada.choval.xyz/tr/spor/s-sport1hd.png" group-title="TR ➾ S SPORT",TR: S-SPORT 1 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/12114
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S-SPORT 1 FHD" tvg-logo="https://granada.choval.xyz/tr/spor/s-sport1fhd.png" group-title="TR ➾ S SPORT",TR: S-SPORT 1 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1914
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="TR: S-SPORT 2 Premium+" tvg-logo="https://granada.choval.xyz/tr/spor/ssportpremium1.png" group-title="TR ➾ S SPORT",TR: S-SPORT 2 Premium+
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/78376
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="TR: S-SPORT 2 HEVC" tvg-logo="https://granada.choval.xyz/tr/spor/ssporthevc.png" group-title="TR ➾ S SPORT",TR: S-SPORT 2 HEVC
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/153436
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="TR: S-SPORT 2 HD" tvg-logo="https://granada.choval.xyz/tr/spor/s-sport2hd.png" group-title="TR ➾ S SPORT",TR: S-SPORT 2 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/59486
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="TR: S-SPORT 2 FHD" tvg-logo="https://granada.choval.xyz/tr/spor/s-sport2fhd.png" group-title="TR ➾ S SPORT",TR: S-SPORT 2 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1915
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor HD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiisporhd.png" group-title="TR ➾ tabii / EXXEN",TR: tabii Spor HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/753017
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor SD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiisporsd.png" group-title="TR ➾ tabii / EXXEN",TR: tabii Spor SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/753019
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor FHD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiisporfhd.png" group-title="TR ➾ tabii / EXXEN",TR: tabii Spor FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/753018
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 1 HD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiispor1hd.png" group-title="TR ➾ tabii / EXXEN",TR: tabii Spor 1 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/749679
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 1 SD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiispor1sd.png" group-title="TR ➾ tabii / EXXEN",TR: tabii Spor 1 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/787293
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 1 FHD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiispor1fhd.png" group-title="TR ➾ tabii / EXXEN",TR: tabii Spor 1 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/747925
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 2 HD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiispor2hd.png" group-title="TR ➾ tabii / EXXEN",TR: tabii Spor 2 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/749680
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 2 FHD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiispor2fhd.png" group-title="TR ➾ tabii / EXXEN",TR: tabii Spor 2 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/747926
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 3 HD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiispor3hd.png" group-title="TR ➾ tabii / EXXEN",TR: tabii Spor 3 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/749681
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 3 FHD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiispor3fhd.png" group-title="TR ➾ tabii / EXXEN",TR: tabii Spor 3 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/747927
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 4 HD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiispor4hd.png" group-title="TR ➾ tabii / EXXEN",TR: tabii Spor 4 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/749682
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 4 FHD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiispor4fhd.png" group-title="TR ➾ tabii / EXXEN",TR: tabii Spor 4 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/747928
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 5 HD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiispor5hd.png" group-title="TR ➾ tabii / EXXEN",TR: tabii Spor 5 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/749683
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 5 FHD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiispor5fhd.png" group-title="TR ➾ tabii / EXXEN",TR: tabii Spor 5 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/747929
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 6 HD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiispor6hd.png" group-title="TR ➾ tabii / EXXEN",TR: tabii Spor 6 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/749684
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 6 FHD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiispor6fhd.png" group-title="TR ➾ tabii / EXXEN",TR: tabii Spor 6 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/747930
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORTS 1 FHD" tvg-logo="https://granada.choval.xyz/tr/spor/exxen1fhd.png" group-title="TR ➾ tabii / EXXEN",TR: EXXEN SPORTS 1 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/124154
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORTS 1 HEVC" tvg-logo="https://granada.choval.xyz/tr/spor/exxen1hevc.png" group-title="TR ➾ tabii / EXXEN",TR: EXXEN SPORTS 1 HEVC
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/372847
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORTS 1 HD" tvg-logo="https://granada.choval.xyz/tr/spor/exxen1hd.png" group-title="TR ➾ tabii / EXXEN",TR: EXXEN SPORTS 1 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/372848
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORTS 1 SD" tvg-logo="https://granada.choval.xyz/tr/spor/exxen1sd.png" group-title="TR ➾ tabii / EXXEN",TR: EXXEN SPORTS 1 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/372849
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORTS 2" tvg-logo="https://granada.choval.xyz/tr/spor/exxen2hd.png" group-title="TR ➾ tabii / EXXEN",TR: EXXEN SPORTS 2
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/124156
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORTS 3" tvg-logo="https://granada.choval.xyz/tr/spor/exxen3hd.png" group-title="TR ➾ tabii / EXXEN",TR: EXXEN SPORTS 3
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/124155
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORTS 4" tvg-logo="https://granada.choval.xyz/tr/spor/exxen4hd.png" group-title="TR ➾ tabii / EXXEN",TR: EXXEN SPORTS 4
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/124993
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORTS 5" tvg-logo="https://granada.choval.xyz/tr/spor/exxen5hd.png" group-title="TR ➾ tabii / EXXEN",TR: EXXEN SPORTS 5
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/124995
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORTS 6" tvg-logo="https://granada.choval.xyz/tr/spor/exxen6hd.png" group-title="TR ➾ tabii / EXXEN",TR: EXXEN SPORTS 6
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/124997
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORTS 7" tvg-logo="https://granada.choval.xyz/tr/spor/exxen7hd.png" group-title="TR ➾ tabii / EXXEN",TR: EXXEN SPORTS 7
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/124999
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORTS 8" tvg-logo="https://granada.choval.xyz/tr/spor/exxen8hd.png" group-title="TR ➾ tabii / EXXEN",TR: EXXEN SPORTS 8
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/125001
+#EXTINF:-1 tvg-id="" tvg-name="AZ: CBC Sport HD" tvg-logo="https://i.imgur.com/3rIZyk6.png" group-title="TR ➾ SPOR",AZ: CBC Sport HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/195796
+#EXTINF:-1 tvg-id="" tvg-name="AZ: CBC Sport  FHD" tvg-logo="https://i.imgur.com/3rIZyk6.png" group-title="TR ➾ tabii / EXXEN",AZ: CBC Sport  FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/674603
+#EXTINF:-1 tvg-id="" tvg-name="AZ: ICTIMAI  HD" tvg-logo="https://granada.choval.xyz/tr/spor/az-ictimaihd.png" group-title="TR ➾ tabii / EXXEN",AZ: ICTIMAI  HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/674614
+#EXTINF:-1 tvg-id="" tvg-name="AZ: ICTIMAI  FHD" tvg-logo="https://granada.choval.xyz/tr/spor/az-ictimaifhd.png" group-title="TR ➾ tabii / EXXEN",AZ: ICTIMAI  FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/674609
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SPOR SMART 1 Premium+" tvg-logo="https://granada.choval.xyz/tr/spor/sporsmartpremium.png" group-title="TR ➾ SPOR",TR: SPOR SMART 1 Premium+
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/64288
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SPOR SMART 1 Vip" tvg-logo="https://granada.choval.xyz/tr/spor/sporsmartvip.png" group-title="TR ➾ SPOR",TR: SPOR SMART 1 Vip
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/46660
+#EXTINF:-1 tvg-id="sporsmart.tr" tvg-name="TR: SPOR SMART 1 SD" tvg-logo="https://granada.choval.xyz/tr/spor/smartspor1sd.png" group-title="TR ➾ SPOR",TR: SPOR SMART 1 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/336120
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SPOR SMART 1 HD" tvg-logo="https://granada.choval.xyz/tr/spor/smartspor1hd.png" group-title="TR ➾ SPOR",TR: SPOR SMART 1 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1916
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SPOR SMART 1 FHD" tvg-logo="https://granada.choval.xyz/tr/spor/smartspor1fhd.png" group-title="TR ➾ SPOR",TR: SPOR SMART 1 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1917
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 2 UHD" tvg-logo="https://granada.choval.xyz/tr/spor/smartspor2raw.png" group-title="TR ➾ SPOR",TR: SPOR SMART 2 UHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/83135
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 2 FHD" tvg-logo="https://granada.choval.xyz/tr/spor/smartspor2fhd.png" group-title="TR ➾ SPOR",TR: SPOR SMART 2 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/46853
+#EXTINF:-1 tvg-id="" tvg-name="TR: EKOL SPORTS SD" tvg-logo="https://granada.choval.xyz/tr/spor/ekol-sports-sd.png" group-title="TR ➾ SPOR",TR: EKOL SPORTS SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/788422
+#EXTINF:-1 tvg-id="" tvg-name="TR: EKOL SPORTS HD" tvg-logo="https://granada.choval.xyz/tr/spor/ekol-sports-hd.png" group-title="TR ➾ SPOR",TR: EKOL SPORTS HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/788421
+#EXTINF:-1 tvg-id="" tvg-name="TR: EKOL SPORTS FHD" tvg-logo="https://granada.choval.xyz/tr/spor/ekol-sports-fhd.png" group-title="TR ➾ SPOR",TR: EKOL SPORTS FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/787851
+#EXTINF:-1 tvg-id="" tvg-name="TR: SIFIR TV HD" tvg-logo="https://granada.choval.xyz/tr/spor/sifirtv-hd.png" group-title="TR ➾ SPOR",TR: SIFIR TV HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/788332
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR SD" tvg-logo="https://granada.choval.xyz/tr/spor/asporsd.png" group-title="TR ➾ SPOR",TR: A SPOR SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/381154
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR HD" tvg-logo="https://granada.choval.xyz/tr/spor/asporhd.png" group-title="TR ➾ SPOR",TR: A SPOR HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1924
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR FHD" tvg-logo="https://granada.choval.xyz/tr/spor/asporfhd.png" group-title="TR ➾ SPOR",TR: A SPOR FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1925
+#EXTINF:-1 tvg-id="" tvg-name="TR: HT SPOR SD" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/u/S4/98405/Thumbnail.png" group-title="TR ➾ SPOR",TR: HT SPOR SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/702167
+#EXTINF:-1 tvg-id="" tvg-name="TR: HT SPOR HD" tvg-logo="https://granada.choval.xyz/tr/spor/htsporhd.png" group-title="TR ➾ SPOR",TR: HT SPOR HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/752194
+#EXTINF:-1 tvg-id="" tvg-name="TR: HT SPOR FHD" tvg-logo="https://granada.choval.xyz/tr/spor/htsporfhd.png" group-title="TR ➾ SPOR",TR: HT SPOR FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/752139
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N Connect 1 HD" tvg-logo="https://granada.choval.xyz/tr/spor/beinconnect.png" group-title="TR ➾ beIN SPORTS",TR: b**N Connect 1 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/320201
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N Connect 2 HD" tvg-logo="https://granada.choval.xyz/tr/spor/beinconnect.png" group-title="TR ➾ beIN SPORTS",TR: b**N Connect 2 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/320202
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N Connect 3 HD" tvg-logo="https://granada.choval.xyz/tr/spor/beinconnect.png" group-title="TR ➾ beIN SPORTS",TR: b**N Connect 3 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/320203
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N Connect 4 HD" tvg-logo="https://granada.choval.xyz/tr/spor/beinconnect.png" group-title="TR ➾ beIN SPORTS",TR: b**N Connect 4 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/320204
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N Connect 5 HD" tvg-logo="https://granada.choval.xyz/tr/spor/beinconnect.png" group-title="TR ➾ beIN SPORTS",TR: b**N Connect 5 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/320206
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N Connect 6 HD" tvg-logo="https://granada.choval.xyz/tr/spor/beinconnect.png" group-title="TR ➾ beIN SPORTS",TR: b**N Connect 6 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/320205
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N Connect 7 HD" tvg-logo="https://granada.choval.xyz/tr/spor/beinconnect.png" group-title="TR ➾ beIN SPORTS",TR: b**N Connect 7 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/762493
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N Connect 8 HD" tvg-logo="https://granada.choval.xyz/tr/spor/beinconnect.png" group-title="TR ➾ beIN SPORTS",TR: b**N Connect 8 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/762495
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N Connect 9 HD" tvg-logo="https://granada.choval.xyz/tr/spor/beinconnect.png" group-title="TR ➾ beIN SPORTS",TR: b**N Connect 9 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/762497
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor" tvg-logo="https://granada.choval.xyz/tr/spor/tivibuspor.png" group-title="TR ➾ SPOR",TR: Tivibu Spor
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/366550
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 1 HD" tvg-logo="https://granada.choval.xyz/tr/spor/tivibuspor1hd.png" group-title="TR ➾ SPOR",TR: TIVIBUSPOR 1 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1908
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR 1 FHD" tvg-logo="https://granada.choval.xyz/tr/spor/tivibuspor1fhd.png" group-title="TR ➾ SPOR",TR: TiViBUSPOR 1 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1909
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 2 HD" tvg-logo="https://granada.choval.xyz/tr/spor/tivibuspor2hd.png" group-title="TR ➾ SPOR",TR: TIVIBUSPOR 2 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1910
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR 2 FHD" tvg-logo="https://granada.choval.xyz/tr/spor/tivibuspor2fhd.png" group-title="TR ➾ SPOR",TR: TiViBUSPOR 2 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1911
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 3 HD" tvg-logo="https://granada.choval.xyz/tr/spor/tivibuspor3hd.png" group-title="TR ➾ SPOR",TR: TIVIBUSPOR 3 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1912
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR 3 FHD" tvg-logo="https://granada.choval.xyz/tr/spor/tivibuspor3fhd.png" group-title="TR ➾ SPOR",TR: TiViBUSPOR 3 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1913
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 4" tvg-logo="https://granada.choval.xyz/tr/spor/tivibuspor4web.png" group-title="TR ➾ SPOR",TR: TIVIBUSPOR 4
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/97588
+#EXTINF:-1 tvg-id="fightbox.tr" tvg-name="TR: FIGHTSCREEN" tvg-logo="https://granada.choval.xyz/tr/spor/fightscreenfhd.png" group-title="TR ➾ SPOR",TR: FIGHTSCREEN
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/746972
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIGHT NETWORK" tvg-logo="https://granada.choval.xyz/tr/spor/fightboxhd.png" group-title="TR ➾ SPOR",TR: FIGHT NETWORK
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/98090
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-name="TR: SPORTS TV HD" tvg-logo="https://granada.choval.xyz/tr/spor/sportstvhd.png" group-title="TR ➾ SPOR",TR: SPORTS TV HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/50447
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-name="TR: SPORTS TV FHD" tvg-logo="https://granada.choval.xyz/tr/spor/sportstvfhd.png" group-title="TR ➾ SPOR",TR: SPORTS TV FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/754053
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="TR: EUROSPORT 1 HD" tvg-logo="https://granada.choval.xyz/tr/spor/eurosport1hd.png" group-title="TR ➾ SPOR",TR: EUROSPORT 1 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1919
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="TR: EUROSPORT 2 HD" tvg-logo="https://granada.choval.xyz/tr/spor/eurosport2hd.png" group-title="TR ➾ SPOR",TR: EUROSPORT 2 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1920
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR SD" tvg-logo="https://granada.choval.xyz/tr/spor/trtsporsd.png" group-title="TR ➾ SPOR",TR: TRT SPOR SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/357738
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR HD" tvg-logo="https://granada.choval.xyz/tr/spor/trtsporhd.png" group-title="TR ➾ SPOR",TR: TRT SPOR HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1921
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR FHD" tvg-logo="https://granada.choval.xyz/tr/spor/trtsporfhd.png" group-title="TR ➾ SPOR",TR: TRT SPOR FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/24724
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ HD" tvg-logo="https://granada.choval.xyz/tr/spor/trtsporyildizhd.png" group-title="TR ➾ SPOR",TR: TRT SPOR YILDIZ HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/102027
+#EXTINF:-1 tvg-id="ATV HD" tvg-name="TR: TRT SPOR YILDIZ FHD" tvg-logo="https://granada.choval.xyz/tr/spor/trtsporyildizfhd.png" group-title="TR ➾ SPOR",TR: TRT SPOR YILDIZ FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1923
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX TR LIVE (EVENT ONLY)" tvg-logo="https://i.ibb.co/rfZ8ppDd/image.png" group-title="TR ➾ SPOR",TR: MAX TR LIVE (EVENT ONLY)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/779010
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 3 SPOR" tvg-logo="https://granada.choval.xyz/tr/spor/trtspor3hd.png" group-title="TR ➾ SPOR",TR: TRT 3 SPOR
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/83204
+#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="TR: FB TV HD" tvg-logo="https://granada.choval.xyz/tr/spor/fbtvhd.png" group-title="TR ➾ SPOR",TR: FB TV HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1927
+#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="TR: FB TV FHD" tvg-logo="https://granada.choval.xyz/tr/spor/fbtvfhd.png" group-title="TR ➾ SPOR",TR: FB TV FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/94663
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="TR: NBA TV HD" tvg-logo="https://granada.choval.xyz/tr/spor/nbatvhd.png" group-title="TR ➾ SPOR",TR: NBA TV HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/55477
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="TR: NBA TV FHD" tvg-logo="https://granada.choval.xyz/tr/spor/nbatvfhd.png" group-title="TR ➾ SPOR",TR: NBA TV FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1918
+#EXTINF:-1 tvg-id="" tvg-name="TR: T.A.Y TV" tvg-logo="https://granada.choval.xyz/tr/spor/taytvhd.png" group-title="TR ➾ SPOR",TR: T.A.Y TV
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1928
+#EXTINF:-1 tvg-id="" tvg-name="TR: TJK TV HD" tvg-logo="https://granada.choval.xyz/tr/spor/tjktvhd.png" group-title="TR ➾ SPOR",TR: TJK TV HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/149419
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TJK TV FHD" tvg-logo="https://granada.choval.xyz/tr/spor/tjktvfhd.png" group-title="TR ➾ SPOR",TR: TJK TV FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/1929
+#EXTINF:-1 tvg-id="" tvg-name="TR: World Poker Tour" tvg-logo="https://granada.choval.xyz/tr/spor/worldpokertourhd.png" group-title="TR ➾ SPOR",TR: World Poker Tour
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/337835
+#EXTINF:-1 tvg-id="" tvg-name="TR: SATRANC & BRIC TV" tvg-logo="https://granada.choval.xyz/tr/spor/santranc&brictvhd.png" group-title="TR ➾ SPOR",TR: SATRANC & BRIC TV
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/23914
+#EXTINF:-1 tvg-id="" tvg-name="TR: Line TV HD" tvg-logo="https://granada.choval.xyz/tr/yerel/bursalinetvhd.png" group-title="TR ➾ SPOR",TR: Line TV HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/378491
+#EXTINF:-1 tvg-id="" tvg-name="TR: Line TV HD | Backup" tvg-logo="https://granada.choval.xyz/tr/yerel/bursalinetvhd.png" group-title="TR ➾ SPOR",TR: Line TV HD | Backup
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/753401
+#EXTINF:-1 tvg-id="" tvg-name="TR: W-SPORT FHD" tvg-logo="https://granada.choval.xyz/tr/belgesel/wsportfhd.png" group-title="TR ➾ SPOR",TR: W-SPORT FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/94252
+#EXTINF:-1 tvg-id="" tvg-name="TR: SKY SPORTS F1 (EN)" tvg-logo="https://granada.choval.xyz/de/sport/skysportsf1fhd.png" group-title="TR ➾ beIN SPORTS",TR: SKY SPORTS F1 (EN)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/772705
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 7 HD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiispor-7-hd.png" group-title="TR ➾ tabii / EXXEN",TR: tabii Spor 7 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/788321
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 7 FHD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiispor-7-fhd.png" group-title="TR ➾ tabii / EXXEN",TR: tabii Spor 7 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/788322
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 8 HD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiispor-8-hd.png" group-title="TR ➾ tabii / EXXEN",TR: tabii Spor 8 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/788323
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 8 FHD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiispor-8-fhd.png" group-title="TR ➾ tabii / EXXEN",TR: tabii Spor 8 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/788324
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 9 HD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiispor-9-hd.png" group-title="TR ➾ tabii / EXXEN",TR: tabii Spor 9 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/788325
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 9 FHD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiispor-9-fhd.png" group-title="TR ➾ tabii / EXXEN",TR: tabii Spor 9 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/788326
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 10 HD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiispor-10-hd.png" group-title="TR ➾ tabii / EXXEN",TR: tabii Spor 10 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/788327
+#EXTINF:-1 tvg-id="" tvg-name="TR: tabii Spor 10 FHD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiispor-10-fhd.png" group-title="TR ➾ tabii / EXXEN",TR: tabii Spor 10 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/788328
+#EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ GERMANY SPORT █ ▆ ▅ ▃" tvg-logo="https://granada.choval.xyz/de/sport/0deutschflag.png" group-title="DE ➾ SPORT",▃ ▅ ▆ █ GERMANY SPORT █ ▆ ▅ ▃
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2238
+#EXTINF:-1 tvg-id="" tvg-name="DE: AMAZON PRIME RAW" tvg-logo="https://granada.choval.xyz/de/sport/amazonprimeraw.png" group-title="DE ➾ SPORT",DE: AMAZON PRIME RAW
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/125002
+#EXTINF:-1 tvg-id="" tvg-name="DE: AMAZON PRIME FHD" tvg-logo="https://granada.choval.xyz/de/sport/amazonprimefhd.png" group-title="DE ➾ SPORT",DE: AMAZON PRIME FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/127007
+#EXTINF:-1 tvg-id="" tvg-name="DE: AMAZON PRIME HD" tvg-logo="https://granada.choval.xyz/de/sport/amazonprimehd.png" group-title="DE ➾ SPORT",DE: AMAZON PRIME HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/127008
+#EXTINF:-1 tvg-id="" tvg-name="DE: AMAZON PRIME SD" tvg-logo="https://granada.choval.xyz/de/sport/amazonprimesd.png" group-title="DE ➾ SPORT",DE: AMAZON PRIME SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/654994
+#EXTINF:-1 tvg-id="" tvg-name="DE: AMAZON PRIME BACKUP" tvg-logo="https://granada.choval.xyz/de/sport/amazonprimebackup.png" group-title="DE ➾ SPORT",DE: AMAZON PRIME BACKUP
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/654995
+#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE: DAZN 1 Vip" tvg-logo="https://granada.choval.xyz/de/sport/dazn1vip.png" group-title="DE ➾ SPORT",DE: DAZN 1 Vip
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48746
+#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE: DAZN 1 FHD" tvg-logo="https://granada.choval.xyz/de/sport/dazn1fhd.png" group-title="DE ➾ SPORT",DE: DAZN 1 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2244
+#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE: DAZN 1 HD" tvg-logo="https://granada.choval.xyz/de/sport/dazn1hd.png" group-title="DE ➾ SPORT",DE: DAZN 1 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2243
+#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE: DAZN 1 SD" tvg-logo="https://granada.choval.xyz/de/sport/dazn1sd.png" group-title="DE ➾ SPORT",DE: DAZN 1 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/672345
+#EXTINF:-1 tvg-id="dazn2.de" tvg-name="DE: DAZN 2 Vip" tvg-logo="https://granada.choval.xyz/de/sport/dazn2vip.png" group-title="DE ➾ SPORT",DE: DAZN 2 Vip
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/102861
+#EXTINF:-1 tvg-id="dazn2.de" tvg-name="DE: DAZN 2 FHD" tvg-logo="https://granada.choval.xyz/de/sport/dazn2fhd.png" group-title="DE ➾ SPORT",DE: DAZN 2 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2246
+#EXTINF:-1 tvg-id="dazn2.de" tvg-name="DE: DAZN 2 HD" tvg-logo="https://granada.choval.xyz/de/sport/dazn2hd.png" group-title="DE ➾ SPORT",DE: DAZN 2 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2245
+#EXTINF:-1 tvg-id="dazn2.de" tvg-name="DE: DAZN 2 SD" tvg-logo="https://granada.choval.xyz/de/sport/dazn2sd.png" group-title="DE ➾ SPORT",DE: DAZN 2 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/672346
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE: Bndliga 1 FHD" tvg-logo="https://granada.choval.xyz/de/sport/skybundesligafhd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 1 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67397
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE: Bndliga 1 HD " tvg-logo="https://granada.choval.xyz/de/sport/skybundesligahd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 1 HD 
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2247
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE: Bndliga 1 SD" tvg-logo="https://granada.choval.xyz/de/sport/skybundesligasd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 1 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67399
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE: Bndliga 1 Mobile" tvg-logo="https://granada.choval.xyz/de/sport/bndliga1mobile.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 1 Mobile
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/697210
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE: Bndliga 1 UHD" tvg-logo="https://granada.choval.xyz/de/sport/skysport1uhd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 1 UHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/83110
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE: Bndliga 1 FEED" tvg-logo="https://granada.choval.xyz/de/sport/skybundesligafeed.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 1 FEED
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/83109
+#EXTINF:-1 tvg-id="skysportbundesligauhd.de" tvg-name="DE: Bndliga UHD" tvg-logo="https://granada.choval.xyz/de/sport/skysportbundesliga1uhd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga UHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/335143
+#EXTINF:-1 tvg-id="skybundesliga.de" tvg-name="DE: Bndliga 4K" tvg-logo="https://granada.choval.xyz/de/sport/bndliga1-4k.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 4K
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/697948
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DE: Bndliga 2 FHD" tvg-logo="https://granada.choval.xyz/de/sport/bndliga2fhd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 2 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67400
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DE: Bndliga 2 HD " tvg-logo="https://granada.choval.xyz/de/sport/bndliga2hd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 2 HD 
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2248
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DE: Bndliga 2 SD" tvg-logo="https://granada.choval.xyz/de/sport/bndliga2sd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 2 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67401
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DE: Bndliga 2 Mobile" tvg-logo="https://granada.choval.xyz/de/sport/bndliga2mobile.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 2 Mobile
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/697861
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="DE: Bndliga 3 FHD" tvg-logo="https://granada.choval.xyz/de/sport/bndliga3fhd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 3 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67402
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="DE: Bndliga 3 HD " tvg-logo="https://granada.choval.xyz/de/sport/bndliga3hd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 3 HD 
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2249
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="DE: Bndliga 3 SD" tvg-logo="https://granada.choval.xyz/de/sport/bndliga3sd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 3 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67403
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="DE: Bndliga 3 Mobile" tvg-logo="https://granada.choval.xyz/de/sport/bndliga3mobile.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 3 Mobile
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/697862
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="DE: Bndliga 4 FHD" tvg-logo="https://granada.choval.xyz/de/sport/bndliga4fhd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 4 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67404
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="DE: Bndliga 4 HD" tvg-logo="https://granada.choval.xyz/de/sport/bndliga4hd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 4 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2250
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="DE: Bndliga 4 SD" tvg-logo="https://granada.choval.xyz/de/sport/bndliga4sd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 4 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67405
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="DE: Bndliga 4 Mobile" tvg-logo="https://granada.choval.xyz/de/sport/bndliga4mobile.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 4 Mobile
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/697909
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="DE: Bndliga 5 FHD" tvg-logo="https://granada.choval.xyz/de/sport/bndliga5fhd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 5 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67406
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="DE: Bndliga 5 HD" tvg-logo="https://granada.choval.xyz/de/sport/bndliga5hd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 5 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2251
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="DE: Bndliga 5 SD" tvg-logo="https://granada.choval.xyz/de/sport/bndliga5sd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 5 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67407
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="DE: Bndliga 5 Mobile" tvg-logo="https://granada.choval.xyz/de/sport/bndliga5mobile.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 5 Mobile
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/704742
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="DE: Bndliga 6 FHD" tvg-logo="https://granada.choval.xyz/de/sport/bndliga6fhd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 6 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67408
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="DE: Bndliga 6 HD" tvg-logo="https://granada.choval.xyz/de/sport/bndliga6hd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 6 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2252
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="DE: Bndliga 6 SD" tvg-logo="https://granada.choval.xyz/de/sport/bndliga6sd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 6 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67409
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="DE: Bndliga 6 Mobile" tvg-logo="https://granada.choval.xyz/de/sport/bndliga6mobile.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 6 Mobile
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/704741
+#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="DE: Bndliga 7 FHD" tvg-logo="https://granada.choval.xyz/de/sport/bndliga7fhd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 7 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67410
+#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="DE: Bndliga 7 HD" tvg-logo="https://granada.choval.xyz/de/sport/bndliga7hd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 7 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2253
+#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="DE: Bndliga 7 SD" tvg-logo="https://granada.choval.xyz/de/sport/bndliga7sd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 7 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67411
+#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="DE: Bndliga 8 FHD" tvg-logo="https://granada.choval.xyz/de/sport/bndliga8fhd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 8 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67412
+#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="DE: Bndliga 8 HD" tvg-logo="https://granada.choval.xyz/de/sport/bndliga8hd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 8 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2254
+#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="DE: Bndliga 8 SD" tvg-logo="https://granada.choval.xyz/de/sport/bndliga8sd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 8 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67413
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="DE: Bndliga 9 FHD" tvg-logo="https://granada.choval.xyz/de/sport/bndliga9fhd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 9 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67414
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="DE: Bndliga 9 HD" tvg-logo="https://granada.choval.xyz/de/sport/bndliga9hd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 9 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2255
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="DE: Bndliga 9 SD" tvg-logo="https://granada.choval.xyz/de/sport/bndliga9sd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 9 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67415
+#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="DE: Bndliga 10 FHD" tvg-logo="https://granada.choval.xyz/de/sport/bndliga10fhd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 10 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67416
+#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="DE: Bndliga 10 HD" tvg-logo="https://granada.choval.xyz/de/sport/bndliga10hd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 10 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/27136
+#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="DE: Bndliga 10 SD" tvg-logo="https://granada.choval.xyz/de/sport/bndliga10sd.png" group-title="DE ➾ SKY BUNDESLIGA",DE: Bndliga 10 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67417
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE: Sky Sport 1 FHD" tvg-logo="https://granada.choval.xyz/de/sport/skysport1fhd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport 1 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2239
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE: Sky Sport 1 HD" tvg-logo="https://granada.choval.xyz/de/sport/skysport1hd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport 1 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/50448
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE: Sky Sport 1 SD" tvg-logo="https://granada.choval.xyz/de/sport/skysport1sd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport 1 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67362
+#EXTINF:-1 tvg-id="skysportuhd.de" tvg-name="DE: Sky Sport UHD" tvg-logo="https://granada.choval.xyz/de/sport/skysport1uhd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport UHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/335144
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE: Sky Sport 2 FHD" tvg-logo="https://granada.choval.xyz/de/sport/skysport2fhd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport 2 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2240
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE: Sky Sport 2 HD" tvg-logo="https://granada.choval.xyz/de/sport/skysport2hd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport 2 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/50449
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE: Sky Sport 2 SD" tvg-logo="https://granada.choval.xyz/de/sport/skysport2sd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport 2 SD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67363
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="DE: Sky Sport 3 FHD" tvg-logo="https://granada.choval.xyz/de/sport/skysport3fhd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport 3 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2241
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="DE: Sky Sport 3 HD" tvg-logo="https://granada.choval.xyz/de/sport/skysport3hd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport 3 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67364
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="DE: Sky Sport 4 FHD" tvg-logo="https://granada.choval.xyz/de/sport/skysport4fhd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport 4 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67366
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="DE: Sky Sport 4 HD" tvg-logo="https://granada.choval.xyz/de/sport/skysport4hd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport 4 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67367
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="DE: Sky Sport 5 FHD" tvg-logo="https://granada.choval.xyz/de/sport/skysport5fhd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport 5 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67369
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="DE: Sky Sport 5 HD" tvg-logo="https://granada.choval.xyz/de/sport/skysport5hd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport 5 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67370
+#EXTINF:-1 tvg-id="skysport6.de" tvg-name="DE: Sky Sport 6 FHD" tvg-logo="https://granada.choval.xyz/de/sport/skysport6fhd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport 6 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67372
+#EXTINF:-1 tvg-id="skysport6.de" tvg-name="DE: Sky Sport 6 HD" tvg-logo="https://granada.choval.xyz/de/sport/skysport6hd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport 6 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67373
+#EXTINF:-1 tvg-id="skysport7.de" tvg-name="DE: Sky Sport 7 FHD" tvg-logo="https://granada.choval.xyz/de/sport/skysport7fhd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport 7 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67375
+#EXTINF:-1 tvg-id="skysport7.de" tvg-name="DE: Sky Sport 7 HD" tvg-logo="https://granada.choval.xyz/de/sport/skysport7hd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport 7 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67376
+#EXTINF:-1 tvg-id="skysport8.de" tvg-name="DE: Sky Sport 8 FHD" tvg-logo="https://granada.choval.xyz/de/sport/skysport8fhd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport 8 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67378
+#EXTINF:-1 tvg-id="skysport8.de" tvg-name="DE: Sky Sport 8 HD" tvg-logo="https://granada.choval.xyz/de/sport/skysport8hd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport 8 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67379
+#EXTINF:-1 tvg-id="skysport9.de" tvg-name="DE: Sky Sport 9 FHD" tvg-logo="https://granada.choval.xyz/de/sport/skysport9fhd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport 9 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67381
+#EXTINF:-1 tvg-id="skysport9.de" tvg-name="DE: Sky Sport 9 HD" tvg-logo="https://granada.choval.xyz/de/sport/skysport9hd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport 9 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67382
+#EXTINF:-1 tvg-id="skysport10.de" tvg-name="DE: Sky Sport 10 FHD" tvg-logo="https://granada.choval.xyz/de/sport/skysport10fhd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport 10 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67384
+#EXTINF:-1 tvg-id="skysport10.de" tvg-name="DE: Sky Sport 10 HD" tvg-logo="https://granada.choval.xyz/de/sport/skysport10hd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport 10 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67385
+#EXTINF:-1 tvg-id="skysportsnewshd.de" tvg-name="DE: Sky Sport News HD" tvg-logo="https://granada.choval.xyz/de/sport/skysportsnewshd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport News HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2263
+#EXTINF:-1 tvg-id="skysportsnewshd.de" tvg-name="DE: Sky Sport News FHD" tvg-logo="https://granada.choval.xyz/de/sport/skysportsnewsfhd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport News FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2264
+#EXTINF:-1 tvg-id="skysporttopevent.de" tvg-name="DE: Sky Sport Top Event FHD" tvg-logo="https://granada.choval.xyz/de/sport/skysporttopeventfhd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport Top Event FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/334847
+#EXTINF:-1 tvg-id="skysporttopevent.de" tvg-name="DE: Sky Sport Top Event HD" tvg-logo="https://granada.choval.xyz/de/sport/skysporttopeventhd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport Top Event HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/334848
+#EXTINF:-1 tvg-id="skysportpremierleague.de" tvg-name="DE: Sky Sport Premier League FHD" tvg-logo="https://granada.choval.xyz/de/sport/skysportpremierleaguefhd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport Premier League FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/334849
+#EXTINF:-1 tvg-id="skysportpremierleague.de" tvg-name="DE: Sky Sport Premier League HD" tvg-logo="https://granada.choval.xyz/de/sport/skysportpremierleaguehd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport Premier League HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/334850
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="DE: Sky Sport F1 Vip" tvg-logo="https://granada.choval.xyz/de/sport/skysportsf1vip.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport F1 Vip
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/100937
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="DE: Sky Sport F1 HD" tvg-logo="https://granada.choval.xyz/de/sport/skysportsf1hd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport F1 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/100935
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="DE: Sky Sport F1 FHD" tvg-logo="https://granada.choval.xyz/de/sport/skysportsf1fhd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport F1 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/100936
+#EXTINF:-1 tvg-id="skysportmix.de" tvg-name="DE: Sky Sport Mix FHD" tvg-logo="https://granada.choval.xyz/de/sport/skysportmixfhd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport Mix FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/334851
+#EXTINF:-1 tvg-id="skysportmix.de" tvg-name="DE: Sky Sport Mix HD" tvg-logo="https://granada.choval.xyz/de/sport/skysportmixhd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport Mix HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/334852
+#EXTINF:-1 tvg-id="skysporttennis.de" tvg-name="DE: Sky Sport Tennis FHD" tvg-logo="https://granada.choval.xyz/de/sport/skysporttennisfhd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport Tennis FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/334853
+#EXTINF:-1 tvg-id="skysporttennis.de" tvg-name="DE: Sky Sport Tennis HD" tvg-logo="https://granada.choval.xyz/de/sport/skysporttennishd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport Tennis HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/334854
+#EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="DE: Sky Sport Golf FHD" tvg-logo="https://granada.choval.xyz/de/sport/skysportgolffhd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport Golf FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/334855
+#EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="DE: Sky Sport Golf HD" tvg-logo="https://granada.choval.xyz/de/sport/skysportgolfhd.png" group-title="DE ➾ SKY SPORTS",DE: Sky Sport Golf HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/334856
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="DE: Bundesliga beIN 4 (Türkisch)" tvg-logo="https://granada.choval.xyz/de/sport/bundesligaturkishhd.png" group-title="DE ➾ SPORT",DE: Bundesliga beIN 4 (Türkisch)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/354422
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga Tivibu 1 (Türkisch)" tvg-logo="https://granada.choval.xyz/de/sport/bundesligaturkishhd.png" group-title="DE ➾ SPORT",DE: Bundesliga Tivibu 1 (Türkisch)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/376377
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga Tivibu 2 (Türkisch)" tvg-logo="https://granada.choval.xyz/de/sport/bundesligaturkishhd.png" group-title="DE ➾ SPORT",DE: Bundesliga Tivibu 2 (Türkisch)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/354423
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga Tivibu 3 (Türkisch)" tvg-logo="https://granada.choval.xyz/de/sport/bundesligaturkishhd.png" group-title="DE ➾ SPORT",DE: Bundesliga Tivibu 3 (Türkisch)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/354424
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga Tivibu 4 (Türkisch)" tvg-logo="https://granada.choval.xyz/de/sport/bundesligaturkishhd.png" group-title="DE ➾ SPORT",DE: Bundesliga Tivibu 4 (Türkisch)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/354425
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="DE: Eurosport 1 FHD" tvg-logo="https://granada.choval.xyz/de/sport/eurosport1fhd.png" group-title="DE ➾ SPORT",DE: Eurosport 1 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67418
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="DE: Eurosport 1 HD" tvg-logo="https://granada.choval.xyz/de/sport/eurosport1hd.png" group-title="DE ➾ SPORT",DE: Eurosport 1 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2257
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="DE: Eurosport 2 FHD" tvg-logo="https://granada.choval.xyz/de/sport/eurosport2fhd.png" group-title="DE ➾ SPORT",DE: Eurosport 2 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67420
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 2 HD" tvg-logo="https://granada.choval.xyz/de/sport/eurosport2hd.png" group-title="DE ➾ SPORT",DE: Eurosport 2 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2258
+#EXTINF:-1 tvg-id="" tvg-name="DE: EuroSport 2 Xtra HD" tvg-logo="https://granada.choval.xyz/de/sport/eurosport2xtrahd.png" group-title="DE ➾ SPORT",DE: EuroSport 2 Xtra HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2259
+#EXTINF:-1 tvg-id="" tvg-name="DE: BILD+ (EVENT ONLY)" tvg-logo="https://granada.choval.xyz/de/sport/bild-event-fhd.png" group-title="DE ➾ SPORT",DE: BILD+ (EVENT ONLY)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/757572
+#EXTINF:-1 tvg-id="" tvg-name="DE: OKTAGON MMA (EVENT ONLY)" tvg-logo="https://i.ibb.co/vxt85z7v/resim.png" group-title="DE ➾ SPORT",DE: OKTAGON MMA (EVENT ONLY)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/767838
+#EXTINF:-1 tvg-id="" tvg-name="DE: UFC Fight PASS" tvg-logo="https://granada.choval.xyz/de/sport/ufcfightpasshd.png" group-title="DE ➾ SPORT",DE: UFC Fight PASS
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/182154
+#EXTINF:-1 tvg-id="" tvg-name="DE: UFC French" tvg-logo="https://granada.choval.xyz/de/sport/ufcfrenchhd.png" group-title="DE ➾ SPORT",DE: UFC French
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/182156
+#EXTINF:-1 tvg-id="" tvg-name="DE: UFC TV FHD (Russian)" tvg-logo="https://granada.choval.xyz/de/sport/ufcrussianfhd.png" group-title="DE ➾ SPORT",DE: UFC TV FHD (Russian)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/182155
+#EXTINF:-1 tvg-id="" tvg-name="DE: NBA TV (Türkisch)" tvg-logo="https://granada.choval.xyz/de/sport/nbatvhd.png" group-title="DE ➾ SPORT",DE: NBA TV (Türkisch)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/352351
+#EXTINF:-1 tvg-id="" tvg-name="DE: Red Bull TV" tvg-logo="https://granada.choval.xyz/de/sport/redbulltvhd.png" group-title="DE ➾ SPORT",DE: Red Bull TV
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/332612
+#EXTINF:-1 tvg-id="" tvg-name="DE: RED BULL TV FHD" tvg-logo="https://granada.choval.xyz/de/sport/redbulltvfhd.png" group-title="DE ➾ SPORT",DE: RED BULL TV FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/377962
+#EXTINF:-1 tvg-id="" tvg-name="DE: More Than Sports TV FHD" tvg-logo="https://granada.choval.xyz/de/sport/morethansportsfhd.png" group-title="DE ➾ SPORT",DE: More Than Sports TV FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191145
+#EXTINF:-1 tvg-id="" tvg-name="DE: More Than Sports TV HD" tvg-logo="https://granada.choval.xyz/de/sport/morethansportshd.png" group-title="DE ➾ SPORT",DE: More Than Sports TV HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191146
+#EXTINF:-1 tvg-id="esports1.de" tvg-name="DE: eSports 1 FHD" tvg-logo="https://granada.choval.xyz/de/sport/esports1fhd.png" group-title="DE ➾ SPORT",DE: eSports 1 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/156034
+#EXTINF:-1 tvg-id="esports1.de" tvg-name="DE: eSports 1 HD" tvg-logo="https://granada.choval.xyz/de/sport/esports1hd.png" group-title="DE ➾ SPORT",DE: eSports 1 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67422
+#EXTINF:-1 tvg-id="sport1plus.de" tvg-name="DE: Sport1+ FHD" tvg-logo="https://granada.choval.xyz/de/sport/sport1plusfhd.png" group-title="DE ➾ SPORT",DE: Sport1+ FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67423
+#EXTINF:-1 tvg-id="sport1plus.de" tvg-name="DE: Sport1+ HD" tvg-logo="https://granada.choval.xyz/de/sport/sport1plushd.png" group-title="DE ➾ SPORT",DE: Sport1+ HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/12930
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="DE: Sport1 Vip" tvg-logo="https://granada.choval.xyz/de/sport/sport1vip.png" group-title="DE ➾ SPORT",DE: Sport1 Vip
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67424
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="DE: Sport1 FHD" tvg-logo="https://granada.choval.xyz/de/sport/sport1fhd.png" group-title="DE ➾ SPORT",DE: Sport1 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/122072
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="DE: Sport1 HD" tvg-logo="https://granada.choval.xyz/de/sport/sport1hd.png" group-title="DE ➾ SPORT",DE: Sport1 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2260
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE: Sport Digital FHD" tvg-logo="https://granada.choval.xyz/de/sport/sportdigitalfhd.png" group-title="DE ➾ SPORT",DE: Sport Digital FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2262
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE: Sport Digital HD" tvg-logo="https://granada.choval.xyz/de/sport/sportdigitalhd.png" group-title="DE ➾ SPORT",DE: Sport Digital HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/121967
+#EXTINF:-1 tvg-id="" tvg-name="DE: #dabeiTV" tvg-logo="https://granada.choval.xyz/de/sport/dabeitvfhd.png" group-title="DE ➾ SPORT",DE: #dabeiTV
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/729874
+#EXTINF:-1 tvg-id="automotorundsportchannel.de" tvg-name="DE: Auto Motor und Sport" tvg-logo="https://granada.choval.xyz/de/sport/automotorundsportshd.png" group-title="DE ➾ SPORT",DE: Auto Motor und Sport
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/67426
+#EXTINF:-1 tvg-id="motorvision.de" tvg-name="DE: Motorvision TV FHD" tvg-logo="https://granada.choval.xyz/de/sport/motorvisiontvfhd.png" group-title="DE ➾ SPORT",DE: Motorvision TV FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/123178
+#EXTINF:-1 tvg-id="motorvision.de" tvg-name="DE: Motorvision TV HD" tvg-logo="https://granada.choval.xyz/de/sport/motorvisiontvhd.png" group-title="DE ➾ SPORT",DE: Motorvision TV HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2265
+#EXTINF:-1 tvg-id="" tvg-name="DE: SERVUS TV MOTORSPORT FHD" tvg-logo="https://granada.choval.xyz/de/sport/servustvmotosportfhd.png" group-title="DE ➾ SPORT",DE: SERVUS TV MOTORSPORT FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/342791
+#EXTINF:-1 tvg-id="" tvg-name="DE: SERVUS TV MOTORSPORT HD" tvg-logo="https://granada.choval.xyz/de/sport/servustvmotosporthd.png" group-title="DE ➾ SPORT",DE: SERVUS TV MOTORSPORT HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/641217
+#EXTINF:-1 tvg-id="" tvg-name="DE: Motorsport TV" tvg-logo="https://granada.choval.xyz/de/sport/motorsporthd.png" group-title="DE ➾ SPORT",DE: Motorsport TV
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/342790
+#EXTINF:-1 tvg-id="fcbayern.de" tvg-name="DE: FC Bayern TV" tvg-logo="https://granada.choval.xyz/de/sport/fcbayerntvhd.png" group-title="DE ➾ SPORT",DE: FC Bayern TV
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2268
+#EXTINF:-1 tvg-id="" tvg-name="DE: World Poker Tour" tvg-logo="https://granada.choval.xyz/de/deutschland/worldpokertourhd.png" group-title="DE ➾ DEUTSCHLAND",DE: World Poker Tour
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/337830
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom BBL Sport 1" tvg-logo="https://granada.choval.xyz/de/sport/telekombblsporthd.png" group-title="DE ➾ SPORT",DE: Telekom BBL Sport 1
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2285
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom BBL Sport 2" tvg-logo="https://granada.choval.xyz/de/sport/telekombblsporthd.png" group-title="DE ➾ SPORT",DE: Telekom BBL Sport 2
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2286
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom BBL Sport 3" tvg-logo="https://granada.choval.xyz/de/sport/telekombblsporthd.png" group-title="DE ➾ SPORT",DE: Telekom BBL Sport 3
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/2288
+#EXTINF:-1 tvg-id="" tvg-name="#### MAGENTA Sport ####" tvg-logo="https://granada.choval.xyz/de/sport/0deutschflag.png" group-title="DE ➾ MAGENTA SPORT",#### MAGENTA Sport ####
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/335472
+#EXTINF:-1 tvg-id="" tvg-name="MS GOLF 1 FHD" tvg-logo="https://granada.choval.xyz/de/sport/ms-golf-1-fhd.png" group-title="DE ➾ MAGENTA SPORT",MS GOLF 1 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/803643
+#EXTINF:-1 tvg-id="" tvg-name="MS GOLF 1 HD" tvg-logo="https://granada.choval.xyz/de/sport/ms-golf-1-hd.png" group-title="DE ➾ MAGENTA SPORT",MS GOLF 1 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/803644
+#EXTINF:-1 tvg-id="" tvg-name="MS GOLF 2 FHD" tvg-logo="https://granada.choval.xyz/de/sport/ms-golf-2-fhd.png" group-title="DE ➾ MAGENTA SPORT",MS GOLF 2 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/803645
+#EXTINF:-1 tvg-id="" tvg-name="MS GOLF 2 HD" tvg-logo="https://granada.choval.xyz/de/sport/ms-golf-2-hd.png" group-title="DE ➾ MAGENTA SPORT",MS GOLF 2 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/803646
+#EXTINF:-1 tvg-id="" tvg-name="MyTeam TV - 1" tvg-logo="https://granada.choval.xyz/de/sport/myteamtv1.png" group-title="DE ➾ MAGENTA SPORT",MyTeam TV - 1
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/181813
+#EXTINF:-1 tvg-id="" tvg-name="MyTeam TV - 2" tvg-logo="https://granada.choval.xyz/de/sport/myteamtv2.png" group-title="DE ➾ MAGENTA SPORT",MyTeam TV - 2
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/181814
+#EXTINF:-1 tvg-id="" tvg-name="MyTeam TV - 3" tvg-logo="https://granada.choval.xyz/de/sport/myteamtv3.png" group-title="DE ➾ MAGENTA SPORT",MyTeam TV - 3
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/181815
+#EXTINF:-1 tvg-id="" tvg-name="MyTeam TV - 4" tvg-logo="https://granada.choval.xyz/de/sport/myteamtv4.png" group-title="DE ➾ MAGENTA SPORT",MyTeam TV - 4
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/181816
+#EXTINF:-1 tvg-id="" tvg-name="MyTeam TV - 5" tvg-logo="https://granada.choval.xyz/de/sport/myteamtv5.png" group-title="DE ➾ MAGENTA SPORT",MyTeam TV - 5
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/181817
+#EXTINF:-1 tvg-id="" tvg-name="MyTeam TV - 6" tvg-logo="https://granada.choval.xyz/de/sport/myteamtv6.png" group-title="DE ➾ MAGENTA SPORT",MyTeam TV - 6
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/181818
+#EXTINF:-1 tvg-id="" tvg-name="MyTeam TV - 7" tvg-logo="https://granada.choval.xyz/de/sport/myteamtv7.png" group-title="DE ➾ MAGENTA SPORT",MyTeam TV - 7
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/181819
+#EXTINF:-1 tvg-id="" tvg-name="MyTeam TV - 8" tvg-logo="https://granada.choval.xyz/de/sport/myteamtv8.png" group-title="DE ➾ MAGENTA SPORT",MyTeam TV - 8
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/181820
+#EXTINF:-1 tvg-id="" tvg-name="MyTeam TV - 9" tvg-logo="https://granada.choval.xyz/de/sport/myteamtv9.png" group-title="DE ➾ MAGENTA SPORT",MyTeam TV - 9
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/181821
+#EXTINF:-1 tvg-id="" tvg-name="MyTeam TV - 10" tvg-logo="https://granada.choval.xyz/de/sport/myteamtv10.png" group-title="DE ➾ MAGENTA SPORT",MyTeam TV - 10
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/181822
+#EXTINF:-1 tvg-id="" tvg-name="MyTeam TV - 11" tvg-logo="https://granada.choval.xyz/de/sport/myteamtv11.png" group-title="DE ➾ MAGENTA SPORT",MyTeam TV - 11
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/181823
+#EXTINF:-1 tvg-id="" tvg-name="MyTeam TV - 12" tvg-logo="https://granada.choval.xyz/de/sport/myteamtv12.png" group-title="DE ➾ MAGENTA SPORT",MyTeam TV - 12
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/181824
+#EXTINF:-1 tvg-id="" tvg-name="MyTeam TV - 13" tvg-logo="https://granada.choval.xyz/de/sport/myteamtv13.png" group-title="DE ➾ MAGENTA SPORT",MyTeam TV - 13
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/181825
+#EXTINF:-1 tvg-id="" tvg-name="MyTeam TV - 14" tvg-logo="https://granada.choval.xyz/de/sport/myteamtv14.png" group-title="DE ➾ MAGENTA SPORT",MyTeam TV - 14
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/181826
+#EXTINF:-1 tvg-id="" tvg-name="MyTeam TV - 15" tvg-logo="https://granada.choval.xyz/de/sport/myteamtv15.png" group-title="DE ➾ MAGENTA SPORT",MyTeam TV - 15
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/181827
+#EXTINF:-1 tvg-id="" tvg-name="MyTeam TV - 16" tvg-logo="https://granada.choval.xyz/de/sport/myteamtv16.png" group-title="DE ➾ MAGENTA SPORT",MyTeam TV - 16
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/181828
+#EXTINF:-1 tvg-id="" tvg-name="MyTeam TV - 17" tvg-logo="https://granada.choval.xyz/de/sport/myteamtv17.png" group-title="DE ➾ MAGENTA SPORT",MyTeam TV - 17
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/181829
+#EXTINF:-1 tvg-id="" tvg-name="MyTeam TV - 18" tvg-logo="https://granada.choval.xyz/de/sport/myteamtv18.png" group-title="DE ➾ MAGENTA SPORT",MyTeam TV - 18
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/181830
+#EXTINF:-1 tvg-id="" tvg-name="DE: W-SPORT FHD" tvg-logo="https://granada.choval.xyz/tr/belgesel/wsportfhd.png" group-title="DE ➾ SPORT",DE: W-SPORT FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/742761
+#EXTINF:-1 tvg-id="" tvg-name="DE: PFL MMA TV" tvg-logo="" group-title="DE ➾ SPORT",DE: PFL MMA TV
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/792907
+#EXTINF:-1 tvg-id="" tvg-name="NBA: LEAGUE PASS 1  HD" tvg-logo="https://granada.choval.xyz/international/nbaleaguepass.png" group-title="NBA ➾ LEAGUE PASS",NBA: LEAGUE PASS 1  HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/795406
+#EXTINF:-1 tvg-id="" tvg-name="NBA: LEAGUE PASS 2  HD" tvg-logo="https://granada.choval.xyz/international/nbaleaguepass.png" group-title="NBA ➾ LEAGUE PASS",NBA: LEAGUE PASS 2  HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/795407
+#EXTINF:-1 tvg-id="" tvg-name="NBA: LEAGUE PASS 3  HD" tvg-logo="https://granada.choval.xyz/international/nbaleaguepass.png" group-title="NBA ➾ LEAGUE PASS",NBA: LEAGUE PASS 3  HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/795408
+#EXTINF:-1 tvg-id="" tvg-name="NBA: LEAGUE PASS 4  HD" tvg-logo="https://granada.choval.xyz/international/nbaleaguepass.png" group-title="NBA ➾ LEAGUE PASS",NBA: LEAGUE PASS 4  HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/795552
+#EXTINF:-1 tvg-id="" tvg-name="NBA: LEAGUE PASS 5  HD" tvg-logo="https://granada.choval.xyz/international/nbaleaguepass.png" group-title="NBA ➾ LEAGUE PASS",NBA: LEAGUE PASS 5  HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/795553
+#EXTINF:-1 tvg-id="" tvg-name="NBA: LEAGUE PASS 6  HD" tvg-logo="https://granada.choval.xyz/international/nbaleaguepass.png" group-title="NBA ➾ LEAGUE PASS",NBA: LEAGUE PASS 6  HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/795554
+#EXTINF:-1 tvg-id="" tvg-name="NBA: LEAGUE PASS 7  HD" tvg-logo="https://granada.choval.xyz/international/nbaleaguepass.png" group-title="NBA ➾ LEAGUE PASS",NBA: LEAGUE PASS 7  HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/795555
+#EXTINF:-1 tvg-id="" tvg-name="NBA: LEAGUE PASS 8  HD" tvg-logo="https://granada.choval.xyz/international/nbaleaguepass.png" group-title="NBA ➾ LEAGUE PASS",NBA: LEAGUE PASS 8  HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/795556
+#EXTINF:-1 tvg-id="" tvg-name="NBA: LEAGUE PASS 9  HD" tvg-logo="https://granada.choval.xyz/international/nbaleaguepass.png" group-title="NBA ➾ LEAGUE PASS",NBA: LEAGUE PASS 9  HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/795557
+#EXTINF:-1 tvg-id="" tvg-name="NBA: LEAGUE PASS 10  HD" tvg-logo="https://granada.choval.xyz/international/nbaleaguepass.png" group-title="NBA ➾ LEAGUE PASS",NBA: LEAGUE PASS 10  HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/795558
+#EXTINF:-1 tvg-id="" tvg-name="NBA: LEAGUE PASS 11  HD" tvg-logo="https://granada.choval.xyz/international/nbaleaguepass.png" group-title="NBA ➾ LEAGUE PASS",NBA: LEAGUE PASS 11  HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/795559
+#EXTINF:-1 tvg-id="" tvg-name="NBA: LEAGUE PASS 12  HD" tvg-logo="https://granada.choval.xyz/international/nbaleaguepass.png" group-title="NBA ➾ LEAGUE PASS",NBA: LEAGUE PASS 12  HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/795560
+#EXTINF:-1 tvg-id="" tvg-name="NBA: LEAGUE PASS 13  HD" tvg-logo="https://granada.choval.xyz/international/nbaleaguepass.png" group-title="NBA ➾ LEAGUE PASS",NBA: LEAGUE PASS 13  HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/795561
+#EXTINF:-1 tvg-id="" tvg-name="NBA: LEAGUE PASS 14  HD" tvg-logo="https://granada.choval.xyz/international/nbaleaguepass.png" group-title="NBA ➾ LEAGUE PASS",NBA: LEAGUE PASS 14  HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/795562
+#EXTINF:-1 tvg-id="" tvg-name="NBA: LEAGUE PASS 15  HD" tvg-logo="https://granada.choval.xyz/international/nbaleaguepass.png" group-title="NBA ➾ LEAGUE PASS",NBA: LEAGUE PASS 15  HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/795563
+#EXTINF:-1 tvg-id="" tvg-name="NBA: LEAGUE PASS 16  HD" tvg-logo="https://granada.choval.xyz/international/nbaleaguepass.png" group-title="NBA ➾ LEAGUE PASS",NBA: LEAGUE PASS 16  HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/797185
+#EXTINF:-1 tvg-id="" tvg-name="NBA: LEAGUE PASS 17  HD" tvg-logo="https://granada.choval.xyz/international/nbaleaguepass.png" group-title="NBA ➾ LEAGUE PASS",NBA: LEAGUE PASS 17  HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/797186
+#EXTINF:-1 tvg-id="" tvg-name="NBA: LEAGUE PASS 18  HD" tvg-logo="https://granada.choval.xyz/international/nbaleaguepass.png" group-title="NBA ➾ LEAGUE PASS",NBA: LEAGUE PASS 18  HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/797187
+#EXTINF:-1 tvg-id="" tvg-name="NBA: LEAGUE PASS 19  HD" tvg-logo="https://granada.choval.xyz/international/nbaleaguepass.png" group-title="NBA ➾ LEAGUE PASS",NBA: LEAGUE PASS 19  HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/797188
+#EXTINF:-1 tvg-id="" tvg-name="NBA: LEAGUE PASS 20  HD" tvg-logo="https://granada.choval.xyz/international/nbaleaguepass.png" group-title="NBA ➾ LEAGUE PASS",NBA: LEAGUE PASS 20  HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/797189
+#EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █  DAZN SPORT CHANNELS █ ▆ ▅ ▃" tvg-logo="https://granada.choval.xyz/de/sport/0daznkapakvera.png" group-title="DE ➾ DAZN & RTL+ SPORTS",▃ ▅ ▆ █  DAZN SPORT CHANNELS █ ▆ ▅ ▃
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191725
+#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE: DAZN SPORT 1 KABEL" tvg-logo="https://granada.choval.xyz/de/sport/dazn1kabel.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN SPORT 1 KABEL
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191726
+#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE: DAZN SPORT 1 HEVC" tvg-logo="https://granada.choval.xyz/de/sport/dazn1hevc.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN SPORT 1 HEVC
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191727
+#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE: DAZN SPORT 1 FHD" tvg-logo="https://granada.choval.xyz/de/sport/dazn1fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN SPORT 1 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191728
+#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE: DAZN SPORT 1 HD" tvg-logo="https://granada.choval.xyz/de/sport/dazn1hd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN SPORT 1 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191729
+#EXTINF:-1 tvg-id="dazn2.de" tvg-name="DE: DAZN SPORT 2 KABEL" tvg-logo="https://granada.choval.xyz/de/sport/dazn2kabel.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN SPORT 2 KABEL
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191730
+#EXTINF:-1 tvg-id="dazn2.de" tvg-name="DE: DAZN SPORT 2 HEVC" tvg-logo="https://granada.choval.xyz/de/sport/dazn2hevc.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN SPORT 2 HEVC
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191731
+#EXTINF:-1 tvg-id="dazn2.de" tvg-name="DE: DAZN SPORT 2 FHD" tvg-logo="https://granada.choval.xyz/de/sport/dazn2fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN SPORT 2 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191732
+#EXTINF:-1 tvg-id="dazn2.de" tvg-name="DE: DAZN SPORT 2 HD" tvg-logo="https://granada.choval.xyz/de/sport/dazn2hd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN SPORT 2 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191733
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Unbeaten" tvg-logo="https://granada.choval.xyz/de/sport/dazn-unbeaten-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN Unbeaten
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/792908
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Rise" tvg-logo="https://granada.choval.xyz/de/sport/daznrisehd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN Rise
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/512245
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Fast" tvg-logo="https://granada.choval.xyz/de/sport/daznfasthd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN Fast
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/512246
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Darts" tvg-logo="https://granada.choval.xyz/de/sport/dazndartshd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN Darts
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/739961
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="DE: DAZN EUROSPORT 1 FHD" tvg-logo="https://granada.choval.xyz/de/sport/eurosport1fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EUROSPORT 1 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191734
+#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="DE: DAZN EUROSPORT 2 FHD" tvg-logo="https://granada.choval.xyz/de/sport/eurosport2fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EUROSPORT 2 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191736
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE: DAZN SPORTDIGITAL FHD" tvg-logo="https://granada.choval.xyz/de/sport/sportdigitalfhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN SPORTDIGITAL FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191738
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE: DAZN SPORTDIGITAL HD" tvg-logo="https://granada.choval.xyz/de/sport/sportdigitalhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN SPORTDIGITAL HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191739
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN NBA HD" tvg-logo="https://granada.choval.xyz/de/sport/daznnbahd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN NBA HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191740
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN NFL NETWORK HD" tvg-logo="https://granada.choval.xyz/de/sport/daznnflnetwork.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN NFL NETWORK HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191741
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN MLB HD" tvg-logo="https://granada.choval.xyz/de/sport/daznmblhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN MLB HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191742
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN LFC TV HD" tvg-logo="https://granada.choval.xyz/de/sport/daznlfchd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN LFC TV HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191743
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN COMBAT" tvg-logo="https://granada.choval.xyz/de/sport/dazncombathd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN COMBAT
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/739960
+#EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █  RTL+ SPORT █ ▆ ▅ ▃" tvg-logo="https://granada.choval.xyz/de/sport/rtlplussportevent1.png" group-title="DE ➾ DAZN & RTL+ SPORTS",▃ ▅ ▆ █  RTL+ SPORT █ ▆ ▅ ▃
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191744
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ HYPE" tvg-logo="" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: RTL+ HYPE
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/792952
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ LIVE 1" tvg-logo="https://granada.choval.xyz/de/sport/rtlpluslive1.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: RTL+ LIVE 1
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/343462
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ LIVE 2" tvg-logo="https://granada.choval.xyz/de/sport/rtlpluslive2.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: RTL+ LIVE 2
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/343463
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ LIVE 3" tvg-logo="https://granada.choval.xyz/de/sport/rtlpluslive3.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: RTL+ LIVE 3
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/343464
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ LIVE 4" tvg-logo="https://granada.choval.xyz/de/sport/rtlpluslive4.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: RTL+ LIVE 4
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/343465
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ LIVE 5" tvg-logo="https://granada.choval.xyz/de/sport/rtlpluslive5.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: RTL+ LIVE 5
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/343466
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ LIVE 6" tvg-logo="https://granada.choval.xyz/de/sport/rtlpluslive6.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: RTL+ LIVE 6
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/343467
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 1" tvg-logo="https://granada.choval.xyz/de/sport/rtl-sport-event-1-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: RTL+ SPORT EVENT 1
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191745
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 2" tvg-logo="https://granada.choval.xyz/de/sport/rtl-sport-event-2-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: RTL+ SPORT EVENT 2
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191746
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 3" tvg-logo="https://granada.choval.xyz/de/sport/rtl-sport-event-3-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: RTL+ SPORT EVENT 3
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191747
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 4" tvg-logo="https://granada.choval.xyz/de/sport/rtl-sport-event-4-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: RTL+ SPORT EVENT 4
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191748
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 5" tvg-logo="https://granada.choval.xyz/de/sport/rtl-sport-event-5-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: RTL+ SPORT EVENT 5
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191749
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 6" tvg-logo="https://granada.choval.xyz/de/sport/rtl-sport-event-6-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: RTL+ SPORT EVENT 6
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191750
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 7" tvg-logo="https://granada.choval.xyz/de/sport/rtl-sport-event-7-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: RTL+ SPORT EVENT 7
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191751
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 8" tvg-logo="https://granada.choval.xyz/de/sport/rtl-sport-event-8-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: RTL+ SPORT EVENT 8
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191752
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 9" tvg-logo="https://granada.choval.xyz/de/sport/rtl-sport-event-9-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: RTL+ SPORT EVENT 9
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191753
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 10" tvg-logo="https://granada.choval.xyz/de/sport/rtl-sport-event-10-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: RTL+ SPORT EVENT 10
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191754
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 11" tvg-logo="https://granada.choval.xyz/de/sport/rtl-sport-event-11-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: RTL+ SPORT EVENT 11
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/792953
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 12" tvg-logo="https://granada.choval.xyz/de/sport/rtl-sport-event-12-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: RTL+ SPORT EVENT 12
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/792954
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 13" tvg-logo="https://granada.choval.xyz/de/sport/rtl-sport-event-13-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: RTL+ SPORT EVENT 13
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/792955
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 15" tvg-logo="https://granada.choval.xyz/de/sport/rtl-sport-event-15-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: RTL+ SPORT EVENT 15
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/792956
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 16" tvg-logo="https://granada.choval.xyz/de/sport/rtl-sport-event-16-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: RTL+ SPORT EVENT 16
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/792957
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 17" tvg-logo="https://granada.choval.xyz/de/sport/rtl-sport-event-17-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: RTL+ SPORT EVENT 17
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/792958
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 18" tvg-logo="https://granada.choval.xyz/de/sport/rtl-sport-event-18-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: RTL+ SPORT EVENT 18
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/792959
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ SPORT EVENT 19" tvg-logo="https://granada.choval.xyz/de/sport/rtl-sport-event-19-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: RTL+ SPORT EVENT 19
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/792960
+#EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █  DAZN EVENT █ ▆ ▅ ▃" tvg-logo="https://i.imgur.com/2c2D4xN.png" group-title="DE ➾ DAZN & RTL+ SPORTS",▃ ▅ ▆ █  DAZN EVENT █ ▆ ▅ ▃
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191755
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 1 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-01.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 1 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191756
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 2 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-02.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 2 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191757
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 3 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-03.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 3 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191758
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 4 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-04.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 4 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191759
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 5 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-05.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 5 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191760
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 6 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-06.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 6 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191761
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 7 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-07.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 7 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191762
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 8 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-08.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 8 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191763
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 9 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-09.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 9 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191764
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 10 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-10.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 10 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191765
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 11 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-11.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 11 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191766
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 12 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-12.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 12 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191767
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 13 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-13.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 13 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191768
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 14 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-14.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 14 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191769
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 15 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-15.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 15 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191770
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 16 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-16.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 16 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191771
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 17 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-17.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 17 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/191772
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 18 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-18.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 18 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/797292
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 19 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-19.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 19 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/797293
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 20 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-20.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 20 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/797294
+#EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ DAZN UFC █ ▆ ▅ ▃" tvg-logo="https://granada.choval.xyz/de/sport/dazn-ufc-0-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",▃ ▅ ▆ █ DAZN UFC █ ▆ ▅ ▃
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/792909
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN UFC 01" tvg-logo="https://granada.choval.xyz/de/sport/dazn-ufc-1-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN UFC 01
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/792910
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN UFC 02" tvg-logo="https://granada.choval.xyz/de/sport/dazn-ufc-2-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN UFC 02
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/792911
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN UFC 03" tvg-logo="https://granada.choval.xyz/de/sport/dazn-ufc-3-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN UFC 03
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/792912
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN UFC 04" tvg-logo="https://granada.choval.xyz/de/sport/dazn-ufc-4-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN UFC 04
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/792913
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN UFC 05" tvg-logo="https://granada.choval.xyz/de/sport/dazn-ufc-5-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN UFC 05
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/792914
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN UFC 06" tvg-logo="https://granada.choval.xyz/de/sport/dazn-ufc-6-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN UFC 06
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/792915
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN UFC 07" tvg-logo="https://granada.choval.xyz/de/sport/dazn-ufc-7-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN UFC 07
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/792916
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN UFC 08" tvg-logo="https://granada.choval.xyz/de/sport/dazn-ufc-8-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN UFC 08
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/792917
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN UFC 09" tvg-logo="https://granada.choval.xyz/de/sport/dazn-ufc-9-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN UFC 09
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/792918
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN UFC 10" tvg-logo="https://granada.choval.xyz/de/sport/dazn-ufc-10-fhd.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN UFC 10
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/792919
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN NFL 1" tvg-logo="https://granada.choval.xyz/de/sport/dazn-nfl1.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN NFL 1
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/755161
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN NFL 2" tvg-logo="https://granada.choval.xyz/de/sport/dazn-nfl2.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN NFL 2
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/755162
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN NFL 3" tvg-logo="https://granada.choval.xyz/de/sport/dazn-nfl3.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN NFL 3
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/755163
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN NFL 4" tvg-logo="https://granada.choval.xyz/de/sport/dazn-nfl4.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN NFL 4
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/755164
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN NFL 5" tvg-logo="https://granada.choval.xyz/de/sport/dazn-nfl5.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN NFL 5
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/755165
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN NFL 6" tvg-logo="https://granada.choval.xyz/de/sport/dazn-nfl6.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN NFL 6
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/755166
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN NFL 7" tvg-logo="https://granada.choval.xyz/de/sport/dazn-nfl7.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN NFL 7
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/755167
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN NFL 8" tvg-logo="https://granada.choval.xyz/de/sport/dazn-nfl8.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN NFL 8
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/755168
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN NFL 9" tvg-logo="https://granada.choval.xyz/de/sport/dazn-nfl9.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN NFL 9
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/755169
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN NFL 10" tvg-logo="https://granada.choval.xyz/de/sport/dazn-nfl10.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN NFL 10
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/755170
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 21 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-21.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 21 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/797349
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 22 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-22.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 22 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/797350
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 23 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-23.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 23 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/797351
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 24 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-24.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 24 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/797352
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 25 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-25.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 25 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/797353
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 26 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-26.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 26 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/797354
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 27 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-27.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 27 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/797355
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 28 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-28.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 28 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/797356
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 29 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-29.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 29 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/797357
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENT 30 HD" tvg-logo="https://granada.choval.xyz/de/sport/daznevents/dazn-events-30.png" group-title="DE ➾ DAZN & RTL+ SPORTS",DE: DAZN EVENT 30 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/797358
+#EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ UEFA MATCHES █ ▆ ▅ ▃" tvg-logo="https://granada.choval.xyz/de/uefa/uefakapak.png" group-title="DE ➾ UEFA MATCHES",▃ ▅ ▆ █ UEFA MATCHES █ ▆ ▅ ▃
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/790234
+#EXTINF:-1 tvg-id="" tvg-name="UEFA: DAZN 1" tvg-logo="https://granada.choval.xyz/de/uefa/uefadazn1.png" group-title="DE ➾ UEFA MATCHES",UEFA: DAZN 1
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/790235
+#EXTINF:-1 tvg-id="" tvg-name="UEFA: DAZN 2" tvg-logo="https://granada.choval.xyz/de/uefa/uefadazn2.png" group-title="DE ➾ UEFA MATCHES",UEFA: DAZN 2
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/790236
+#EXTINF:-1 tvg-id="" tvg-name="UEFA: AMAZON PRIME" tvg-logo="https://granada.choval.xyz/de/uefa/uefaamazonprime.png" group-title="DE ➾ UEFA MATCHES",UEFA: AMAZON PRIME
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/790254
+#EXTINF:-1 tvg-id="" tvg-name="UEFA: DAZN UEFA CL 01" tvg-logo="https://granada.choval.xyz/de/uefa/uefacl1.png" group-title="DE ➾ UEFA MATCHES",UEFA: DAZN UEFA CL 01
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/790237
+#EXTINF:-1 tvg-id="" tvg-name="UEFA: DAZN UEFA CL 02" tvg-logo="https://granada.choval.xyz/de/uefa/uefacl2.png" group-title="DE ➾ UEFA MATCHES",UEFA: DAZN UEFA CL 02
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/790238
+#EXTINF:-1 tvg-id="" tvg-name="UEFA: DAZN UEFA CL 03" tvg-logo="https://granada.choval.xyz/de/uefa/uefacl3.png" group-title="DE ➾ UEFA MATCHES",UEFA: DAZN UEFA CL 03
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/790239
+#EXTINF:-1 tvg-id="" tvg-name="UEFA: DAZN UEFA CL 04" tvg-logo="https://granada.choval.xyz/de/uefa/uefacl4.png" group-title="DE ➾ UEFA MATCHES",UEFA: DAZN UEFA CL 04
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/790240
+#EXTINF:-1 tvg-id="" tvg-name="UEFA: DAZN UEFA CL 05" tvg-logo="https://granada.choval.xyz/de/uefa/uefacl5.png" group-title="DE ➾ UEFA MATCHES",UEFA: DAZN UEFA CL 05
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/790241
+#EXTINF:-1 tvg-id="" tvg-name="UEFA: DAZN UEFA CL 06" tvg-logo="https://granada.choval.xyz/de/uefa/uefacl6.png" group-title="DE ➾ UEFA MATCHES",UEFA: DAZN UEFA CL 06
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/790242
+#EXTINF:-1 tvg-id="" tvg-name="UEFA: DAZN UEFA CL 07" tvg-logo="https://granada.choval.xyz/de/uefa/uefacl7.png" group-title="DE ➾ UEFA MATCHES",UEFA: DAZN UEFA CL 07
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/790243
+#EXTINF:-1 tvg-id="" tvg-name="UEFA: DAZN UEFA CL 08" tvg-logo="https://granada.choval.xyz/de/uefa/uefacl8.png" group-title="DE ➾ UEFA MATCHES",UEFA: DAZN UEFA CL 08
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/790244
+#EXTINF:-1 tvg-id="" tvg-name="UEFA: DAZN UEFA CL 09" tvg-logo="https://granada.choval.xyz/de/uefa/uefacl9.png" group-title="DE ➾ UEFA MATCHES",UEFA: DAZN UEFA CL 09
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/790245
+#EXTINF:-1 tvg-id="" tvg-name="UEFA: DAZN UEFA CL 10" tvg-logo="https://granada.choval.xyz/de/uefa/uefacl10.png" group-title="DE ➾ UEFA MATCHES",UEFA: DAZN UEFA CL 10
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/790246
+#EXTINF:-1 tvg-id="" tvg-name="UEFA: SKY SPORT AUSTRIA 1" tvg-logo="https://granada.choval.xyz/de/uefa/uefaskysportat1.png" group-title="DE ➾ UEFA MATCHES",UEFA: SKY SPORT AUSTRIA 1
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/790247
+#EXTINF:-1 tvg-id="" tvg-name="UEFA: SKY SPORT AUSTRIA 2" tvg-logo="https://granada.choval.xyz/de/uefa/uefaskysportat2.png" group-title="DE ➾ UEFA MATCHES",UEFA: SKY SPORT AUSTRIA 2
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/790248
+#EXTINF:-1 tvg-id="" tvg-name="UEFA: SKY SPORT AUSTRIA 3" tvg-logo="https://granada.choval.xyz/de/uefa/uefaskysportat3.png" group-title="DE ➾ UEFA MATCHES",UEFA: SKY SPORT AUSTRIA 3
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/790249
+#EXTINF:-1 tvg-id="" tvg-name="UEFA: SKY SPORT AUSTRIA 4" tvg-logo="https://granada.choval.xyz/de/uefa/uefaskysportat4.png" group-title="DE ➾ UEFA MATCHES",UEFA: SKY SPORT AUSTRIA 4
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/790250
+#EXTINF:-1 tvg-id="" tvg-name="UEFA: SKY SPORT AUSTRIA 5" tvg-logo="https://granada.choval.xyz/de/uefa/uefaskysportat5.png" group-title="DE ➾ UEFA MATCHES",UEFA: SKY SPORT AUSTRIA 5
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/790251
+#EXTINF:-1 tvg-id="" tvg-name="UEFA: CANAL+ ACTION" tvg-logo="https://granada.choval.xyz/de/uefa/uefacanalplus-at.png" group-title="DE ➾ UEFA MATCHES",UEFA: CANAL+ ACTION
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/792744
+#EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ DYN SPORTS █ ▆ ▅ ▃" tvg-logo="https://granada.choval.xyz/de/sport/dynkapak.png" group-title="DE ➾ DYN SPORT",▃ ▅ ▆ █ DYN SPORTS █ ▆ ▅ ▃
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/665814
+#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 1" tvg-logo="https://granada.choval.xyz/de/sport/dynsport1hd.png" group-title="DE ➾ DYN SPORT",DE: DYN SPORT 1
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/640315
+#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 2" tvg-logo="https://granada.choval.xyz/de/sport/dynsport2hd.png" group-title="DE ➾ DYN SPORT",DE: DYN SPORT 2
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/640316
+#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 3" tvg-logo="https://granada.choval.xyz/de/sport/dynsport3hd.png" group-title="DE ➾ DYN SPORT",DE: DYN SPORT 3
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/640317
+#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 4" tvg-logo="https://granada.choval.xyz/de/sport/dynsport4hd.png" group-title="DE ➾ DYN SPORT",DE: DYN SPORT 4
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/640318
+#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 5" tvg-logo="https://granada.choval.xyz/de/sport/dynsport5hd.png" group-title="DE ➾ DYN SPORT",DE: DYN SPORT 5
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/640319
+#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 6" tvg-logo="https://granada.choval.xyz/de/sport/dyn6.png" group-title="DE ➾ DYN SPORT",DE: DYN SPORT 6
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/665799
+#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 7" tvg-logo="https://granada.choval.xyz/de/sport/dyn7.png" group-title="DE ➾ DYN SPORT",DE: DYN SPORT 7
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/665800
+#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 8" tvg-logo="https://granada.choval.xyz/de/sport/dyn8.png" group-title="DE ➾ DYN SPORT",DE: DYN SPORT 8
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/665801
+#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 9" tvg-logo="https://granada.choval.xyz/de/sport/dyn9.png" group-title="DE ➾ DYN SPORT",DE: DYN SPORT 9
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/665802
+#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 10" tvg-logo="https://granada.choval.xyz/de/sport/dyn10.png" group-title="DE ➾ DYN SPORT",DE: DYN SPORT 10
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/665803
+#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 11" tvg-logo="https://granada.choval.xyz/de/sport/dyn11.png" group-title="DE ➾ DYN SPORT",DE: DYN SPORT 11
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/665804
+#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 12" tvg-logo="https://granada.choval.xyz/de/sport/dyn12.png" group-title="DE ➾ DYN SPORT",DE: DYN SPORT 12
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/665805
+#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 13" tvg-logo="https://granada.choval.xyz/de/sport/dyn13.png" group-title="DE ➾ DYN SPORT",DE: DYN SPORT 13
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/665806
+#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 14" tvg-logo="https://granada.choval.xyz/de/sport/dyn14.png" group-title="DE ➾ DYN SPORT",DE: DYN SPORT 14
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/665807
+#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 15" tvg-logo="https://granada.choval.xyz/de/sport/dyn15.png" group-title="DE ➾ DYN SPORT",DE: DYN SPORT 15
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/665808
+#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 16" tvg-logo="https://granada.choval.xyz/de/sport/dyn16.png" group-title="DE ➾ DYN SPORT",DE: DYN SPORT 16
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/665809
+#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 17" tvg-logo="https://granada.choval.xyz/de/sport/dyn17.png" group-title="DE ➾ DYN SPORT",DE: DYN SPORT 17
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/665810
+#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 18" tvg-logo="https://granada.choval.xyz/de/sport/dyn18.png" group-title="DE ➾ DYN SPORT",DE: DYN SPORT 18
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/665811
+#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 19" tvg-logo="https://granada.choval.xyz/de/sport/dyn19.png" group-title="DE ➾ DYN SPORT",DE: DYN SPORT 19
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/665812
+#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 20" tvg-logo="https://granada.choval.xyz/de/sport/dyn20.png" group-title="DE ➾ DYN SPORT",DE: DYN SPORT 20
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/665813
+#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 21" tvg-logo="https://granada.choval.xyz/de/sport/dyn21.png" group-title="DE ➾ DYN SPORT",DE: DYN SPORT 21
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/742934
+#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 22" tvg-logo="https://granada.choval.xyz/de/sport/dyn22.png" group-title="DE ➾ DYN SPORT",DE: DYN SPORT 22
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/742935
+#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 23" tvg-logo="https://granada.choval.xyz/de/sport/dyn23.png" group-title="DE ➾ DYN SPORT",DE: DYN SPORT 23
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/743195
+#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 24" tvg-logo="https://granada.choval.xyz/de/sport/dyn24.png" group-title="DE ➾ DYN SPORT",DE: DYN SPORT 24
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/744165
+#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 25" tvg-logo="https://granada.choval.xyz/de/sport/dyn25.png" group-title="DE ➾ DYN SPORT",DE: DYN SPORT 25
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/744166
+#EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ WORLD SPORTS █ ▆ ▅ ▃" tvg-logo="" group-title="WS ➾ WORLD SPORTS",▃ ▅ ▆ █ WORLD SPORTS █ ▆ ▅ ▃
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48622
+#EXTINF:-1 tvg-id="" tvg-name="WS: SpaceX Sports" tvg-logo="https://granada.choval.xyz/tr/spor/spacexfeed1.png" group-title="WS ➾ WORLD SPORTS",WS: SpaceX Sports
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/799574
+#EXTINF:-1 tvg-id="" tvg-name="WS: RTCG 2  HD" tvg-logo="" group-title="WS ➾ WORLD SPORTS",WS: RTCG 2  HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/784594
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: AL KASS SPORTS 1 (AR)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: AL KASS SPORTS 1 (AR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48699
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: AL KASS SPORTS 2 (AR)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: AL KASS SPORTS 2 (AR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48700
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Arena Sport 1 HD (EX-YU)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: Arena Sport 1 HD (EX-YU)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48669
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Arena Sport 2 HD (EX-YU)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: Arena Sport 2 HD (EX-YU)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48670
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Arena Sport 3 HD (EX-YU)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: Arena Sport 3 HD (EX-YU)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48671
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Arena Sport 4 HD (EX-YU)" tvg-logo="http://hdkanal.net/exyu/arena-sport-4-rs.png" group-title="WS ➾ WORLD SPORTS",VIP SPORT: Arena Sport 4 HD (EX-YU)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48672
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Arena Sport 5 HD (EX-YU)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: Arena Sport 5 HD (EX-YU)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48673
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BEIN SPORT 1 (AR)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: BEIN SPORT 1 (AR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48687
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BEIN SPORT 2 (AR)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: BEIN SPORT 2 (AR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48688
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BEIN SPORT 3 (AR)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: BEIN SPORT 3 (AR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48689
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BEIN SPORT 4 (AR)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: BEIN SPORT 4 (AR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48690
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BEIN SPORT 5 (AR)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: BEIN SPORT 5 (AR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48691
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BEIN SPORT 6 (AR)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: BEIN SPORT 6 (AR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48692
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BEIN SPORT 7 (AR)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: BEIN SPORT 7 (AR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48693
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BEIN SPORT 8 (AR)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: BEIN SPORT 8 (AR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48694
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BEIN SPORT 9 (AR)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: BEIN SPORT 9 (AR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48695
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BEIN SPORT 10 (AR)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: BEIN SPORT 10 (AR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48696
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BEIN SPORTS 11 (AR)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: BEIN SPORTS 11 (AR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48697
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BEIN SPORTS 12 (AR)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: BEIN SPORTS 12 (AR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48698
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BEIN SPORTS 13 (AR)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: BEIN SPORTS 13 (AR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/51402
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BEIN SPORTS 1 (FR)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: BEIN SPORTS 1 (FR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48659
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BEIN SPORTS 2 (FR)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: BEIN SPORTS 2 (FR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48660
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BEIN SPORTS 3 (FR)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: BEIN SPORTS 3 (FR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48661
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BOX NATION (UK)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: BOX NATION (UK)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48637
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BT SPORT 1 (UK)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: BT SPORT 1 (UK)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48633
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BT SPORT 2 (UK)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: BT SPORT 2 (UK)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48634
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BT SPORT 3 (UK)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: BT SPORT 3 (UK)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48635
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="VIP SPORT: BUNDESLIGA 1 (DE)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: BUNDESLIGA 1 (DE)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48648
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Canal  Sport 1 HD (PL)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: Canal  Sport 1 HD (PL)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48657
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Canal  Sport 2 HD (PL)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: Canal  Sport 2 HD (PL)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48658
+#EXTINF:-1 tvg-id="dazn1.de" tvg-name="VIP SPORT: DAZN Sport 1 HD (DE)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: DAZN Sport 1 HD (DE)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48649
+#EXTINF:-1 tvg-id="daznbar2.de" tvg-name="VIP SPORT: DAZN Sport 2 HD (DE)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: DAZN Sport 2 HD (DE)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48650
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: DIGI SPORT 1 (RO)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: DIGI SPORT 1 (RO)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48683
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: DIGI SPORT 2 (RO)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: DIGI SPORT 2 (RO)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48684
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: DIGI SPORT 3 (RO)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: DIGI SPORT 3 (RO)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48685
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: DIGI SPORT 4 (RO)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: DIGI SPORT 4 (RO)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48686
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: ELEVEN SPORT 1 (PL)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: ELEVEN SPORT 1 (PL)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48654
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: ELEVEN SPORT 1 (PT)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: ELEVEN SPORT 1 (PT)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48643
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: ELEVEN SPORT 2 (PL)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: ELEVEN SPORT 2 (PL)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48655
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: ELEVEN SPORT 2 (PT)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: ELEVEN SPORT 2 (PT)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48644
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: ELEVEN SPORT 3 (PL)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: ELEVEN SPORT 3 (PL)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48656
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: FOX SPORT 1 (NL)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: FOX SPORT 1 (NL)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48651
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: FOX SPORT 2 (NL)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: FOX SPORT 2 (NL)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48652
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: LIGA CAMPEONES 1 FHD (ES)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: LIGA CAMPEONES 1 FHD (ES)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48668
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: LIGA TV (ES)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: LIGA TV (ES)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48666
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: MLB Network (US)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: MLB Network (US)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48704
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: MUTV FC (UK)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: MUTV FC (UK)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48636
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: NFL Network (US)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: NFL Network (US)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48705
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: NHL Network (US)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: NHL Network (US)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48703
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: RMC SPORT 1 (FR)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: RMC SPORT 1 (FR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48662
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: RMC SPORT 2 (FR)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: RMC SPORT 2 (FR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48663
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: RMC SPORT 3 (FR)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: RMC SPORT 3 (FR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48664
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: RMC SPORT 4 (FR)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: RMC SPORT 4 (FR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48665
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORT 1 (DE)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: SKY SPORT 1 (DE)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48646
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORT 2 (DE)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: SKY SPORT 2 (DE)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48647
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORT CRICKET (UK)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: SKY SPORT CRICKET (UK)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48632
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORT NEWS (DE)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: SKY SPORT NEWS (DE)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48645
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORTS ACTION (UK)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: SKY SPORTS ACTION (UK)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48626
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORTS ARENA (UK)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: SKY SPORTS ARENA (UK)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48627
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORTS F1 (UK)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: SKY SPORTS F1 (UK)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48630
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORTS FOOTBALL (UK)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: SKY SPORTS FOOTBALL (UK)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48625
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORTS GOLF (UK)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: SKY SPORTS GOLF (UK)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48631
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORTS MAIN EVENT (UK)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: SKY SPORTS MAIN EVENT (UK)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48629
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORTS MIX (UK)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: SKY SPORTS MIX (UK)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48628
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORTS NEWS (UK)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: SKY SPORTS NEWS (UK)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48623
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORTS PREMIER LEAGUE (UK)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: SKY SPORTS PREMIER LEAGUE (UK)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48624
+#EXTINF:-1 tvg-id="sportklub1.rs" tvg-name="VIP SPORT: SPORT KLUB 1 (EX-YU)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: SPORT KLUB 1 (EX-YU)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48674
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SPORT KLUB 2 (EX-YU)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: SPORT KLUB 2 (EX-YU)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48675
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SPORT KLUB 3 (EX-YU)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: SPORT KLUB 3 (EX-YU)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48676
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SPORT KLUB 4 (EX-YU)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: SPORT KLUB 4 (EX-YU)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48677
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SPORT TV 1 (PT)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: SPORT TV 1 (PT)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48638
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SPORT TV 2 (PT)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: SPORT TV 2 (PT)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48639
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SPORT TV 3 (PT)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: SPORT TV 3 (PT)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48640
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SPORT TV 4 (PT)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: SPORT TV 4 (PT)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48641
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SPORT TV 5 (PT)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: SPORT TV 5 (PT)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48642
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Super Sport 1 (AL)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: Super Sport 1 (AL)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48678
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Super Sport 2 (AL)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: Super Sport 2 (AL)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48679
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Super Sport 3 (AL)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: Super Sport 3 (AL)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48680
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: TNT SPORTS 6 (UK)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: TNT SPORTS 6 (UK)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/761898
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Tring Sport 1 (AL)" tvg-logo="http://picon.webhop.net/logo/ALBANIA/TRINGSPORT.png" group-title="WS ➾ WORLD SPORTS",VIP SPORT: Tring Sport 1 (AL)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48681
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Tring Sport 2 (AL)" tvg-logo="http://picon.webhop.net/logo/ALBANIA/TRINGSPORT.png" group-title="WS ➾ WORLD SPORTS",VIP SPORT: Tring Sport 2 (AL)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48682
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: TRT 1  FHD" tvg-logo="https://granada.choval.xyz/tr/ulusal/trt1fhd.png" group-title="WS ➾ WORLD SPORTS",VIP SPORT: TRT 1  FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/754305
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: UFC Fight Pass" tvg-logo="https://i.imgur.com/8VxoRzJ.png" group-title="WS ➾ WORLD SPORTS",VIP SPORT: UFC Fight Pass
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48701
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: UFC French" tvg-logo="https://i.imgur.com/8VxoRzJ.png" group-title="WS ➾ WORLD SPORTS",VIP SPORT: UFC French
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/182158
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: UFC Russian" tvg-logo="https://i.imgur.com/8VxoRzJ.png" group-title="WS ➾ WORLD SPORTS",VIP SPORT: UFC Russian
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/182159
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: WWE Network (US)" tvg-logo="https://i.imgur.com/hrHo698.png" group-title="WS ➾ WORLD SPORTS",VIP SPORT: WWE Network (US)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48706
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: WWE USA" tvg-logo="https://i.imgur.com/hrHo698.png" group-title="WS ➾ WORLD SPORTS",VIP SPORT: WWE USA
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/94073
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Ziggo Sport Extra 2  FHD" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: Ziggo Sport Extra 2  FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/754304
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: ZIGGO SPORT SELECT HD (NL)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",VIP SPORT: ZIGGO SPORT SELECT HD (NL)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/48653
+#EXTINF:-1 tvg-id="" tvg-name="WS: ARENA PREMIUM 1  FHD (SRB)" tvg-logo="" group-title="WS ➾ WORLD SPORTS",WS: ARENA PREMIUM 1  FHD (SRB)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/772608
+#EXTINF:-1 tvg-id="" tvg-name="HU: M SPORT 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/M4_Sport.png" group-title="WS ➾ WORLD SPORTS",HU: M SPORT 4
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/787363
+#EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ EYXU SPORT █ ▆ ▅ ▃" tvg-logo="" group-title="EXYU ➾ SPORT",▃ ▅ ▆ █ EYXU SPORT █ ▆ ▅ ▃
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/81567
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Arena Sport 1 BIH" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/logo_arena1.png" group-title="EXYU ➾ SPORT",BIH: Arena Sport 1 BIH
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/105791
+#EXTINF:-1 tvg-id="arenasport1.hr" tvg-name="CRO: Arena Sport 1 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena1_logo.png" group-title="EXYU ➾ SPORT",CRO: Arena Sport 1 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68178
+#EXTINF:-1 tvg-id="arenasport1.hr" tvg-name="CRO: Arena Sport 1 HD (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena1_logo.png" group-title="EXYU ➾ SPORT",CRO: Arena Sport 1 HD (L2)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/83022
+#EXTINF:-1 tvg-id="arenasport2.hr" tvg-name="CRO: Arena Sport 2 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena2_logo.png" group-title="EXYU ➾ SPORT",CRO: Arena Sport 2 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68179
+#EXTINF:-1 tvg-id="arenasport2.hr" tvg-name="CRO: Arena Sport 2 HD (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena2_logo.png" group-title="EXYU ➾ SPORT",CRO: Arena Sport 2 HD (L2)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/83023
+#EXTINF:-1 tvg-id="arenasport3.hr" tvg-name="CRO: Arena Sport 3 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena3_logo.png" group-title="EXYU ➾ SPORT",CRO: Arena Sport 3 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68180
+#EXTINF:-1 tvg-id="arenasport3.hr" tvg-name="CRO: Arena Sport 3 HD (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena3_logo.png" group-title="EXYU ➾ SPORT",CRO: Arena Sport 3 HD (L2)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/83024
+#EXTINF:-1 tvg-id="arenasport4.hr" tvg-name="CRO: Arena Sport 4 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena4_logo.png" group-title="EXYU ➾ SPORT",CRO: Arena Sport 4 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/78322
+#EXTINF:-1 tvg-id="arenasport5.hr" tvg-name="CRO: Arena Sport 5 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena5_logo.png" group-title="EXYU ➾ SPORT",CRO: Arena Sport 5 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68181
+#EXTINF:-1 tvg-id="arenasport6.hr" tvg-name="CRO: Arena Sport 6 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena6_logo.png" group-title="EXYU ➾ SPORT",CRO: Arena Sport 6 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68182
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Arena Sport 7 FHD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_7_HR_logo.png" group-title="EXYU ➾ SPORT",CRO: Arena Sport 7 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/112315
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Arena Sport 8 FHD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_8_HR_logo.png" group-title="EXYU ➾ SPORT",CRO: Arena Sport 8 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/112383
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Arena Sport 9 FHD " tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_9_HR_logo.png" group-title="EXYU ➾ SPORT",CRO: Arena Sport 9 FHD 
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/112384
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Arena Sport 10 FHD " tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_10_HR_logo.png" group-title="EXYU ➾ SPORT",CRO: Arena Sport 10 FHD 
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/112385
+#EXTINF:-1 tvg-id="arenasport1.rs" tvg-name="SRB: Arena Sport 1 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/logo_arena1.png" group-title="EXYU ➾ SPORT",SRB: Arena Sport 1 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68088
+#EXTINF:-1 tvg-id="arenasport1.rs" tvg-name="SRB: Arena Sport 1 HD (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/logo_arena1.png" group-title="EXYU ➾ SPORT",SRB: Arena Sport 1 HD (L2)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/83025
+#EXTINF:-1 tvg-id="arenasport2.rs" tvg-name="SRB: Arena Sport 2 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/logo_arena2.png" group-title="EXYU ➾ SPORT",SRB: Arena Sport 2 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68089
+#EXTINF:-1 tvg-id="arenasport2.rs" tvg-name="SRB: Arena Sport 2 HD (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/logo_arena2.png" group-title="EXYU ➾ SPORT",SRB: Arena Sport 2 HD (L2)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/83026
+#EXTINF:-1 tvg-id="arenasport3.rs" tvg-name="SRB: Arena Sport 3 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/logo_arena3.png" group-title="EXYU ➾ SPORT",SRB: Arena Sport 3 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68100
+#EXTINF:-1 tvg-id="arenasport3.rs" tvg-name="SRB: Arena Sport 3 HD (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/logo_arena3.png" group-title="EXYU ➾ SPORT",SRB: Arena Sport 3 HD (L2)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/83027
+#EXTINF:-1 tvg-id="arenasport4.rs" tvg-name="SRB: Arena Sport 4 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/logo_arena4.png" group-title="EXYU ➾ SPORT",SRB: Arena Sport 4 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68090
+#EXTINF:-1 tvg-id="arenasport5.rs" tvg-name="SRB: Arena Sport 5 HD" tvg-logo="https://i.imgur.com/3ApXR3x.png" group-title="EXYU ➾ SPORT",SRB: Arena Sport 5 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68101
+#EXTINF:-1 tvg-id="" tvg-name="SRB: ARENA PREMIUM 1 FHD" tvg-logo="" group-title="EXYU ➾ SPORT",SRB: ARENA PREMIUM 1 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/131525
+#EXTINF:-1 tvg-id="" tvg-name="SRB: ARENA PREMIUM 2 FHD" tvg-logo="" group-title="EXYU ➾ SPORT",SRB: ARENA PREMIUM 2 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/131526
+#EXTINF:-1 tvg-id="" tvg-name="SRB: ARENA PREMIUM 3 FHD" tvg-logo="" group-title="EXYU ➾ SPORT",SRB: ARENA PREMIUM 3 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/131527
+#EXTINF:-1 tvg-id="sportklub1.hr" tvg-name="CRO: Sport Klub 1 HD (HR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_1.png" group-title="EXYU ➾ SPORT",CRO: Sport Klub 1 HD (HR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68183
+#EXTINF:-1 tvg-id="sportklub2.hr" tvg-name="CRO: Sport Klub 2 HD (HR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_2.png" group-title="EXYU ➾ SPORT",CRO: Sport Klub 2 HD (HR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68184
+#EXTINF:-1 tvg-id="sportklub3.hr" tvg-name="CRO: Sport Klub 3 HD (HR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_3.png" group-title="EXYU ➾ SPORT",CRO: Sport Klub 3 HD (HR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68185
+#EXTINF:-1 tvg-id="sportklub4.hr" tvg-name="CRO: Sport Klub 4 (HR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_4.png" group-title="EXYU ➾ SPORT",CRO: Sport Klub 4 (HR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68186
+#EXTINF:-1 tvg-id="sportklub5.hr" tvg-name="CRO: Sport Klub 5 (HR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_5.png" group-title="EXYU ➾ SPORT",CRO: Sport Klub 5 (HR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68187
+#EXTINF:-1 tvg-id="sportklub6.hr" tvg-name="CRO: Sport Klub 6 (HR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_6.png" group-title="EXYU ➾ SPORT",CRO: Sport Klub 6 (HR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68188
+#EXTINF:-1 tvg-id="sportklubhd.hr" tvg-name="CR: Sport Klub HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_hd.png" group-title="EXYU ➾ SPORT",CR: Sport Klub HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68247
+#EXTINF:-1 tvg-id="sportklubgolf.hr" tvg-name="CR: Sport Klub Golf" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_golf.png" group-title="EXYU ➾ SPORT",CR: Sport Klub Golf
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68248
+#EXTINF:-1 tvg-id="sportklub1.rs" tvg-name="SRB: Sport Klub 1 HD (SR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_1.png" group-title="EXYU ➾ SPORT",SRB: Sport Klub 1 HD (SR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68091
+#EXTINF:-1 tvg-id="sportklub2.rs" tvg-name="SRB: Sport Klub 2 HD (SR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_2.png" group-title="EXYU ➾ SPORT",SRB: Sport Klub 2 HD (SR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68092
+#EXTINF:-1 tvg-id="sportklub3.rs" tvg-name="SRB: Sport Klub 3 HD (SR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_3.png" group-title="EXYU ➾ SPORT",SRB: Sport Klub 3 HD (SR)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68093
+#EXTINF:-1 tvg-id="sportklub4.rs" tvg-name="SRB: Sport Klub 4" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_4.png" group-title="EXYU ➾ SPORT",SRB: Sport Klub 4
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68094
+#EXTINF:-1 tvg-id="sportklub5.rs" tvg-name="SRB: Sport Klub 5 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_5.png" group-title="EXYU ➾ SPORT",SRB: Sport Klub 5 HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68149
+#EXTINF:-1 tvg-id="sportklub6.rs" tvg-name="SRB: Sport Klub 6" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_6.png" group-title="EXYU ➾ SPORT",SRB: Sport Klub 6
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68095
+#EXTINF:-1 tvg-id="sportklub7.rs" tvg-name="SRB: Sport Klub 7" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_7.png" group-title="EXYU ➾ SPORT",SRB: Sport Klub 7
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/102647
+#EXTINF:-1 tvg-id="sportklub8.rs" tvg-name="SRB: Sport Klub 8" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_8.png" group-title="EXYU ➾ SPORT",SRB: Sport Klub 8
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/102648
+#EXTINF:-1 tvg-id="sportklub9.rs" tvg-name="SRB: Sport Klub 9" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_9.png" group-title="EXYU ➾ SPORT",SRB: Sport Klub 9
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/102649
+#EXTINF:-1 tvg-id="sportklub10.rs" tvg-name="SRB: Sport Klub 10" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_10.png" group-title="EXYU ➾ SPORT",SRB: Sport Klub 10
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/123091
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Max Sport 1 FHD" tvg-logo="https://i.imgur.com/b2je3Kj.png" group-title="EXYU ➾ SPORT",CRO: Max Sport 1 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/330942
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Max Sport 1 HD (L2)" tvg-logo="https://i.imgur.com/b2je3Kj.png" group-title="EXYU ➾ SPORT",CRO: Max Sport 1 HD (L2)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/353617
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Max Sport 2 FHD" tvg-logo="https://i.imgur.com/FQhsNIB.png" group-title="EXYU ➾ SPORT",CRO: Max Sport 2 FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/353618
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Max Sport 2 HD (L2)" tvg-logo="https://i.imgur.com/FQhsNIB.png" group-title="EXYU ➾ SPORT",CRO: Max Sport 2 HD (L2)
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/353616
+#EXTINF:-1 tvg-id="eurosport1.rs" tvg-name="SRB: EUROSPORT 1" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Eurosport_2015_logo.png" group-title="EXYU ➾ SPORT",SRB: EUROSPORT 1
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68293
+#EXTINF:-1 tvg-id="24kitchen.rs" tvg-name="SRB: EUROSPORT 2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Eurosport_2_2015_logo.png" group-title="EXYU ➾ SPORT",SRB: EUROSPORT 2
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68294
+#EXTINF:-1 tvg-id="" tvg-name="BIH: MOJA TV BH PREMIER LIGA" tvg-logo="" group-title="EXYU ➾ SPORT",BIH: MOJA TV BH PREMIER LIGA
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68326
+#EXTINF:-1 tvg-id="" tvg-name="CRO: MOJA TV PREMIER LIGA" tvg-logo="https://i.imgur.com/0zzXwwN.png" group-title="EXYU ➾ SPORT",CRO: MOJA TV PREMIER LIGA
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/694962
+#EXTINF:-1 tvg-id="sportskatv.hr" tvg-name="CRO: SPORTSKA TV SPTV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sptv-logo.png" group-title="EXYU ➾ SPORT",CRO: SPORTSKA TV SPTV
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68212
+#EXTINF:-1 tvg-id="kreatortv.hr" tvg-name="CRO: Kreator TV HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/logo_web_prod.jpg" group-title="EXYU ➾ SPORT",CRO: Kreator TV HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68231
+#EXTINF:-1 tvg-id="fightchannel.hr" tvg-name="HR: FIGHT Channel" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/fight-channel-logo.png" group-title="EXYU ➾ SPORT",HR: FIGHT Channel
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68318
+#EXTINF:-1 tvg-id="novasport.rs" tvg-name="SRB: Nova Sport HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/nova_sport.png" group-title="EXYU ➾ SPORT",SRB: Nova Sport HD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/83046
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Zvezda TV" tvg-logo="" group-title="EXYU ➾ SPORT",SRB: Zvezda TV
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/105792
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Partizan TV" tvg-logo="" group-title="EXYU ➾ SPORT",SRB: Partizan TV
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/68123
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 1 PREMIUM FHD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="EXYU ➾ SPORT",CRO: ARENA SPORT 1 PREMIUM FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/762537
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 2 PREMIUM FHD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="EXYU ➾ SPORT",CRO: ARENA SPORT 2 PREMIUM FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/762538
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 3 PREMIUM FHD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_3_RS_logo.png" group-title="EXYU ➾ SPORT",CRO: ARENA SPORT 3 PREMIUM FHD
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/762539
+#EXTINF:-1 tvg-id="" tvg-name="SRB: ARENA FIGHT" tvg-logo="" group-title="EXYU ➾ SPORT",SRB: ARENA FIGHT
+http://metetv.xyz:8080/eF9XHzfnje/DBfY2mvavq/767181
